@@ -9,11 +9,11 @@ The whole focus of TPR and FPR is the prediction ability of positive samples, th
 When the sample is **highly imbalanced**, FPR will be a bad indicator because **the amount of TN is large, the effect of FP becomes small, and FPR changes very little**.
 At this point, precision will be a better indicator, the impact of FP will be highlighted, and TP is much smaller than TN.
 $$precision = TP/(TP+FP) = 1 - FP/(TP+FP)$$
-For the case of imbalanced data distribution, TP<<TN, precision can more highlight the impact of FP.
+For the case of imbalanced data distribution, TP<<TN, precision can more highlight the impact of FP. Therefore an additional evaluation AUPRC, which is the area under the precision-recall curve, is added.
 ```
 [24] Faezeh Movahedi, Rema Padman, and James F. Antaki. 2023. Limitations of receiver operating characteristic curve on imbalanced data: Assist device mortality risk scores. The Journal of Thoracic and Cardiovascular Surgery 165, 4 (2023), 1433–1442.e2. https://doi.org/10.1016/j.jtcvs.2021.07.041
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxODIxOTg0MiwxNDA3NDE1NzY0LDEyNT
-I2Njk1NjEsLTIxNDYxOTYzODBdfQ==
+eyJoaXN0b3J5IjpbLTIwNTkzNDg0NjAsMTQwNzQxNTc2NCwxMj
+UyNjY5NTYxLC0yMTQ2MTk2MzgwXX0=
 -->
