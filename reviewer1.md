@@ -13,12 +13,16 @@ $$precision = TP/(TP+FP) = 1 - FP/(TP+FP)$$
 For the case of imbalanced data distribution, TP<<TN, precision can more highlight the impact of FP. Therefore an additional evaluation AUPRC, which is the area under the precision-recall curve, is added.
 
 ## 3.3 Why F1-Score?
+Both AUROC and AUPRC are the results of different emphasis on concerns. F1-score is a metric that takes into account both precision and recall, that is, the harmonic mean of precision and recall. 
 
+$$F1=2*\frac{precision*recall }{precision + recall}$$
+
+F1 is equivalent to the comprehensive evaluation metric of precision and recall.
 ```
 [24] Faezeh Movahedi, Rema Padman, and James F. Antaki. 2023. Limitations of receiver operating characteristic curve on imbalanced data: Assist device mortality risk scores. The Journal of Thoracic and Cardiovascular Surgery 165, 4 (2023), 1433–1442.e2. https://doi.org/10.1016/j.jtcvs.2021.07.041
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwMTExOTYsNTQ0MTM0OTk5LC0yMDU5Mz
-Q4NDYwLDE0MDc0MTU3NjQsMTI1MjY2OTU2MSwtMjE0NjE5NjM4
-MF19
+eyJoaXN0b3J5IjpbLTUwMDAyMDIxOCw0NjAxMTE5Niw1NDQxMz
+Q5OTksLTIwNTkzNDg0NjAsMTQwNzQxNTc2NCwxMjUyNjY5NTYx
+LC0yMTQ2MTk2MzgwXX0=
 -->
