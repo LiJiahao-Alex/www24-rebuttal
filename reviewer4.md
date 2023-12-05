@@ -20,15 +20,13 @@ To the best of our knowledge, the earliest systematic exposition on SW&KM comes 
 ## 1.2 SW&KM follows the in-framework specifications of Web
 The Semantic Web and Knowledge Management are framed within the scope of the Web Conference. Machine learning are introduced here **as a tool rather than a topic**. We aim to address the problem of semantic overflow. There is no way to give up machine learning tools completely, because of their significance to the Web and the fact that adopting machine learning tools is a trend in recent years[G,H,I].
 
-```
-[G]Proceedings of the ACM Web Conference 2023. Association for Computing Machinery, New York, NY, USA.
+>[G]Proceedings of the ACM Web Conference 2023. Association for Computing Machinery, New York, NY, USA.
 [H]Proceedings of the ACM Web Conference 2022. Association for Computing Machinery, New York, NY, USA.
 [I]Proceedings of the ACM Web Conference 2021. Association for Computing Machinery, New York, NY, USA.
-```
 
 ```
 Thanks again for your comments. We really appreciate the time and effort you put into this review process, and each of your questions and suggestions has been meaningful to us. Hopefully our answers addressed your concerns. If you have further questions, don't hesitate to let us know.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU2OTAxMTgzLDExMTYwNjAzMjddfQ==
+eyJoaXN0b3J5IjpbMTg1MDc4MjEyNSwxMTE2MDYwMzI3XX0=
 -->
