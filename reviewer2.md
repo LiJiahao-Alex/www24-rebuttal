@@ -74,7 +74,7 @@ Tables 7-9 show the experimental results performed according to Eq.1 in Section 
 ## 4.3 Table-10,11
 Tables 10,11 show ablation experiments on MNIST dataset for external and internal retrieval, respectively. They performed according to Eq.1 in Section 4 of the paper (321-338 lines).  Tables 10 and 11 are introduced in Section 7.3 (818-820 lines ) and Appendix C (1106-1103 lines ). Table 5 reports the mean results for Tables 10 and 11, respectively. We examined the effect of different retrieval techniques on semantic learning under different retrieval modalities. Overall, external retrieval is always better than internal retrieval. From the perspective of the retrieval tricks, using no tricks is the best performance for the external retrieval method. However, for self-retrieval, it is optimal to not use softmax and just keep other retrieval tricks. This indicates that the self-retrieval mechanism internally relies on a certain combination of retrieval skills to achieve higher performance, while external retrieval does not. In addition, it can be found by plotting that the performance of all sub-experiments is higher than the comparison case when no retrieval tricks are applied to external retrieval. The above observation suggests that none of these retrieval tricks are necessary for external retrieval, which conforms to Occam’s razor principle with minimalism and optimal performance.
 
-We are committed to fully covering the analyses in these appendices in the final version of the paper to ensure that readers can have a clear and comprehensive understanding of all aspects of the study.
+Thanks again for your comments. We are committed to fully covering the analyses in these appendices in the final version of the paper to ensure that readers can have a clear and comprehensive understanding of all aspects of the study.
 # 5. Why called semantic overflow detection?
 
 The name semantic overflow detection was originally inspired by HTTP 404 Not Found Error. Specifically, when the Web data or page is accessed by an address or URL, a 404 error is returned to let the consumer knwon if the target does not exist. It would be disastrous if the target didn't exist and the Web returned what the system thought was an approximate page or data without telling it. This situation doesn't happen thanks to 404 Not Found Error, however, it does happen in the semantic-level query.
@@ -102,11 +102,11 @@ Semantic and traditional labels are different in the way of formation process, f
 
 In general, semantics focuses more on the semantic meaning of data or feature and helps computers understand the nature of data, while the traditional  labels focus more on the goal of model training and prediction.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODI3MzI2OCwtMTYzNTg2NDk2NywyOD
-M4NDYyOTcsMTM0ODU0ODc5NywxMzIwNTcxNDcsMTE0Mjk4Mzk3
-LDgzMjA4MzkxMSwxMTYzNTg5MjMzLC00NDIyMzk0NDgsLTEzMz
-k0NzY5MzksMjE0MjE2MDEzNywtMTgwMDE1MzA5MSwtOTU5MzAx
-Njk0LC0xMzk5MzY4MzM0LDQzODg1NTc2OSwtMTExNjQ2ODY3OC
-wtMzAzODk3NDQ0LDE1MTY5MjM2MDksLTY3NTM4NjQwNCwxMDUx
-MjgyMTA0XX0=
+eyJoaXN0b3J5IjpbLTE4MTE1MzUxNDMsLTE2MzU4NjQ5NjcsMj
+gzODQ2Mjk3LDEzNDg1NDg3OTcsMTMyMDU3MTQ3LDExNDI5ODM5
+Nyw4MzIwODM5MTEsMTE2MzU4OTIzMywtNDQyMjM5NDQ4LC0xMz
+M5NDc2OTM5LDIxNDIxNjAxMzcsLTE4MDAxNTMwOTEsLTk1OTMw
+MTY5NCwtMTM5OTM2ODMzNCw0Mzg4NTU3NjksLTExMTY0Njg2Nz
+gsLTMwMzg5NzQ0NCwxNTE2OTIzNjA5LC02NzUzODY0MDQsMTA1
+MTI4MjEwNF19
 -->
