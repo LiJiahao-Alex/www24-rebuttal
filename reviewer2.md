@@ -8,7 +8,7 @@ Thanks for your comments. First of all, please allow us to apologize for some mi
 When a question mark appears on the blue tag, it means that there is no label information for this data.
 
 ## 1.2 Difference between OSR and SOD
-OSR is supervised learning, while SOD is unsupervised learning. OSR requires data-label (x,y) pairs for training, while SOD only requires data x without labels y for training.
+OSR is **supervised** learning, while SOD is **unsupervised** learning. OSR requires **data-label (x,y) pairs** for training, while SOD **only requires data x without labels y** for training.
 
 ## 1.3 What if OSR data tagged with "?"
 The OSR data is all marked with question marks tag, which means that all label information is removed from the data. At this time, this case does not belong to the research scope of OSR, because OSR is supervised learning, which requires data-label pairs.
@@ -61,5 +61,5 @@ Semantic and traditional labels are different in the way of formation process, f
 
 - From the perspective of data entities, labels are artificially pre-agreed symbols, and semantics are meaning feature in the data (as Reviewer TEpt said).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzYzMjg2MV19
+eyJoaXN0b3J5IjpbMjAxNDM0NzgwNSwxNDYzNjMyODYxXX0=
 -->
