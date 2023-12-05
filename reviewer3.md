@@ -70,10 +70,10 @@ In summary, the message we want to convey to the reader is that during training,
 |  | key A (Section5) | key B (Section6) |
 |--|--|--|
 | Method | Find the best model design. | Introduce a generalization suppressor. |
-|Disadvantage| no test set evaluation feedback during training ||
+|Limition| no test set evaluation feedback during training ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjMwNzcxOCw4ODUwOTAzNjQsLTEyMD
+eyJoaXN0b3J5IjpbMTI5MTg2OTU1OCw4ODUwOTAzNjQsLTEyMD
 QxMjg4ODYsLTI0NTAzOTgzMCw4MDkyNjM3NzcsLTgyNjEyODM0
 MSwtMTkzOTg5MTYsLTIxMjQxMjQ1NDAsNzEwMTc5Njk0LC0xMj
 U3MzIyODkzLDQ3MjQ3MDMwMywtMTA5ODgwMjAxXX0=
