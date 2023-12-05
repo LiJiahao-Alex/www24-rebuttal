@@ -53,6 +53,8 @@ Due to the limitation of the rebuttal time window, we did not use as many altern
 # 3. Data format
 I understand your concern about the field of Semantic Web and Knowledge Management, and I would like to explain our research design in the following ways:
 
+Firstly, the choice of MNIST, FashionMNIST, and Kuzushiji datasets was not solely driven by an interest in image processing per se. Instead, these datasets were selected as a medium for exploring the integration of visual and semantic information to enhance the understanding of relationships between entities within the Semantic Web environment. Recognizing the unique position of image data in modern information sharing and transmission on the web, our study aims to provide new perspectives, emphasizing the irreplaceability of image data in knowledge management. We believe that such research can provide a new and multimodal approach to the construction of knowledge graphs and the representation of semantic information.
+
 
 
 
@@ -85,7 +87,7 @@ Semantic and traditional labels are different in the way of formation process, f
 
 - From the perspective of data entities, labels are artificially pre-agreed symbols, and semantics are meaning feature in the data (as Reviewer TEpt said).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc2NDM2OTcyLC0xMzk5MzY4MzM0LDQzOD
+eyJoaXN0b3J5IjpbNTA1NTExOTA1LC0xMzk5MzY4MzM0LDQzOD
 g1NTc2OSwtMTExNjQ2ODY3OCwtMzAzODk3NDQ0LDE1MTY5MjM2
 MDksLTY3NTM4NjQwNCwxMDUxMjgyMTA0LC0xMTU5OTM5MDY4LD
 E5NzY2ODU0NjgsLTM3NDMzMjU2LDE0NjM2MzI4NjFdfQ==
