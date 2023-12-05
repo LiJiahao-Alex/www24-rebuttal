@@ -1,5 +1,5 @@
 ```
-
+Thank you for your comments and we will address your concerns below.
 ```
 # 1.Relevance to Web audience
 
@@ -25,6 +25,10 @@ The Semantic Web and Knowledge Management are framed within the scope of the Web
 [H]Proceedings of the ACM Web Conference 2022. Association for Computing Machinery, New York, NY, USA.
 [I]Proceedings of the ACM Web Conference 2021. Association for Computing Machinery, New York, NY, USA.
 ```
+
+```
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjAyMDU4MzEsMTExNjA2MDMyN119
+eyJoaXN0b3J5IjpbNzM0Mjk2OTgwLDExMTYwNjAzMjddfQ==
 -->
