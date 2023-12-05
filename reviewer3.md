@@ -56,8 +56,13 @@ We are very sorry that we may have caused misunderstanding. We have not conveyed
 
 # 6.Find the best model design
 "The last paragraph of Section 5 indicates that the key is finding the best model design to solve the overgeneralization problem." The reading of last paragraph of Section 5 **should be followed up with Section 6 (387-393 lines)**. The logic we like to state is that while finding the best model design is the key to solving the overgeneralization problem, it is not the only key.
+
+|  | key A | key B |
+|--|--|--|
+|  | Find the best model design | |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODQ0NzAyOSwtMTIwNDEyODg4NiwtMj
+eyJoaXN0b3J5IjpbMTY4NjQ2Nzk2MywtMTIwNDEyODg4NiwtMj
 Q1MDM5ODMwLDgwOTI2Mzc3NywtODI2MTI4MzQxLC0xOTM5ODkx
 NiwtMjEyNDEyNDU0MCw3MTAxNzk2OTQsLTEyNTczMjI4OTMsND
 cyNDcwMzAzLC0xMDk4ODAyMDFdfQ==
