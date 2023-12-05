@@ -21,7 +21,7 @@ The definition of RvO is given in Section IV, Eq1. The notation here is the same
 
 - Label-free. $\forall{(X,\widetilde{X})}\in{RvO(\mathcal{X})}, Y_X=\emptyset$
 - Multi-semantic. $\because{\widetilde{k}-k=1,\widetilde{k}=K}, \therefore{k=K-1>1}$
-- Exclusiveness.
+- Exclusiveness. $\forall{(X,\widetilde{X})}\in{RvO(\mathcal{X})},Xcap$
 - Semanticity.
 - Compatibility.
 - Rarity.
@@ -30,7 +30,7 @@ The definition of RvO is given in Section IV, Eq1. The notation here is the same
 
 Rest-vs-one (RvO) protocol is explained and discussed in Section IV (321-342 lines). The introduction of RvO involves the definition of the SOD problem in Section III, the shortcomings of the OSR evaluation method in Section II, and the six characteristics of the SOD problem in Section I.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1NjUxNTQ5LC04MjYxMjgzNDEsLTE5Mz
-k4OTE2LC0yMTI0MTI0NTQwLDcxMDE3OTY5NCwtMTI1NzMyMjg5
-Myw0NzI0NzAzMDMsLTEwOTg4MDIwMV19
+eyJoaXN0b3J5IjpbLTUyNTc0NzcwOCwtODI2MTI4MzQxLC0xOT
+M5ODkxNiwtMjEyNDEyNDU0MCw3MTAxNzk2OTQsLTEyNTczMjI4
+OTMsNDcyNDcwMzAzLC0xMDk4ODAyMDFdfQ==
 -->
