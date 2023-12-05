@@ -70,7 +70,7 @@ The reading of last paragraph of Section 5 **should be followed up with Section 
 
 ``Model A --> Evaluation of A --> Model modification -->
 Model B --> Evaluation of B --> Model modification -->
-Model V --> Evaluation of V --> Model modification --> ··· ···``
+Model C --> Evaluation of C --> Model modification --> ··· ··· ---> the best model design``
  
 Since the search for the best model design (key A), does not work without a test set, we turn to an alternative (key B). We use Table 1 to clarify the misunderstanding.
 
@@ -80,8 +80,8 @@ Since the search for the best model design (key A), does not work without a test
 |Limitation| no test set evaluation feedback during training ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzI5MjA1NTEsODg1MDkwMzY0LC0xMj
-A0MTI4ODg2LC0yNDUwMzk4MzAsODA5MjYzNzc3LC04MjYxMjgz
-NDEsLTE5Mzk4OTE2LC0yMTI0MTI0NTQwLDcxMDE3OTY5NCwtMT
-I1NzMyMjg5Myw0NzI0NzAzMDMsLTEwOTg4MDIwMV19
+eyJoaXN0b3J5IjpbNTUwODMyNzU2LDg4NTA5MDM2NCwtMTIwND
+EyODg4NiwtMjQ1MDM5ODMwLDgwOTI2Mzc3NywtODI2MTI4MzQx
+LC0xOTM5ODkxNiwtMjEyNDEyNDU0MCw3MTAxNzk2OTQsLTEyNT
+czMjI4OTMsNDcyNDcwMzAzLC0xMDk4ODAyMDFdfQ==
 -->
