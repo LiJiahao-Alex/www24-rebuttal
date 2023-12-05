@@ -18,9 +18,11 @@ The OSR data is all marked with question marks tag, which means that all label i
 ## 1.4 Being unlabeled is an assumption that conforms to Web data, and it is not a deliberate ignorance of labels.
 OSR is built with the default that all data is labeled, so the task of OSR is to not only classify knowns but also detect unknowns in the test data. SOD is built  with the default that data is unlabeled, so the task of SOD is to detect the unknown. Note that the latter is not just a result of ignoring labels for the following reasons. 
 
-- Firstly, being labelless is an external condition, not something that can be artificially created.
+- Firstly, being labelless is an external condition, not something that can be artificially created. And label resources are scarce, so it doesn't make sense to remove them or ignore them.
 - Secondly, SOD has practical scenarios and significance and is more in line with Web data. 
-- Thirdly, the difficulty of SOD is much higher than OSR because of the lack of label information. In the context of Web, most data are unlabeled, or require very high labeling costs. Here are two examples for better illustration.
+- Thirdly, the difficulty of SOD is much higher than OSR because of the lack of label information. In the context of Web, most data are unlabeled, or require very high labeling costs. 
+
+Here are two examples for better illustration.
 
 >**OSR.** For example, a face recognition gate machine that requires face-identity (data-label) pairs at training can be deployed to identify visitors (knowns classification) and identify outsiders (unknowns detection). Its performance on classification and rejection tasks is not surprising given the large number of data-label pairs used.
 
@@ -67,6 +69,6 @@ Semantic and traditional labels are different in the way of formation process, f
 
 - From the perspective of data entities, labels are artificially pre-agreed symbols, and semantics are meaning feature in the data (as Reviewer TEpt said).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3NTUyMjEwLC0zNzQzMzI1NiwxNDYzNj
+eyJoaXN0b3J5IjpbNjc2NzkyMzc2LC0zNzQzMzI1NiwxNDYzNj
 MyODYxXX0=
 -->
