@@ -42,14 +42,14 @@ Tabel 1-AUROC evaluation metric
 
 |      | MNIST      | Fashion     | Kuzushiji   |
 |------|------------|-------------|-------------|
-| VAE  | 85.12±0.42 | 70.61±0.24  |  72.57±0.29 |
-| Ours | 88.45±0.71 |  71.22±0.46 | 76.44±0.76  |
+| VAE  | 53.45±1.61 | 22.90±0.32  |  25.34±0.57 |
+| Ours | 59.17±1.92 |  24.21±0.37 | 29.48±1.05  |
 Tabel 2-AUPRC evaluation metric
 
 |      | MNIST      | Fashion     | Kuzushiji   |
 |------|------------|-------------|-------------|
-| VAE  | 85.12±0.42 | 70.61±0.24  |  72.57±0.29 |
-| Ours | 88.45±0.71 |  71.22±0.46 | 76.44±0.76  |
+| VAE  | 54.67±0.97 | 31.97±0.25  |  32.37±0.35 |
+| Ours | 60.44±1.39 |  33.36±0.40 | 35.93±0.95  |
 Tabel 3-best F1-Score evaluation metric
 
 # 3. Data format
@@ -86,6 +86,6 @@ Semantic and traditional labels are different in the way of formation process, f
 
 - From the perspective of data entities, labels are artificially pre-agreed symbols, and semantics are meaning feature in the data (as Reviewer TEpt said).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NjQwNDgyOSwtMTE1OTkzOTA2OCwxOT
+eyJoaXN0b3J5IjpbMTA1MTI4MjEwNCwtMTE1OTkzOTA2OCwxOT
 c2Njg1NDY4LC0zNzQzMzI1NiwxNDYzNjMyODYxXX0=
 -->
