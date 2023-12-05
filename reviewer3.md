@@ -79,9 +79,12 @@ This is the ideal situation, but during actual training, evaluation cannot be im
 |Limitation| No test set evaluation feedback during training. |/|
 |Advantage|/|Do not need test set evaluation feedback during training|
 Table 1-Different ways to address overgeneralization problem.
+
+Therefore, we perform the Plan B route and propose the memory module, which does not require continuous evaluation feedback to obtain good performance.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NTc2Mzk5MSw4ODUwOTAzNjQsLTEyMD
-QxMjg4ODYsLTI0NTAzOTgzMCw4MDkyNjM3NzcsLTgyNjEyODM0
-MSwtMTkzOTg5MTYsLTIxMjQxMjQ1NDAsNzEwMTc5Njk0LC0xMj
-U3MzIyODkzLDQ3MjQ3MDMwMywtMTA5ODgwMjAxXX0=
+eyJoaXN0b3J5IjpbLTE3MjIwNTM3NTUsLTM0NTc2Mzk5MSw4OD
+UwOTAzNjQsLTEyMDQxMjg4ODYsLTI0NTAzOTgzMCw4MDkyNjM3
+NzcsLTgyNjEyODM0MSwtMTkzOTg5MTYsLTIxMjQxMjQ1NDAsNz
+EwMTc5Njk0LC0xMjU3MzIyODkzLDQ3MjQ3MDMwMywtMTA5ODgw
+MjAxXX0=
 -->
