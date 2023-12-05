@@ -81,7 +81,7 @@ Based on the above examples, we outline our conception of unknown semantic detec
 
 ## 6.1 Definition
 
-Semantics in our paper refers to a machine-based description of the meaning implied by data information, aiming to make data on the Internet easier to understand and interpret.
+Semantics in our paper refers to a machine-based description of the meaning implied by data, aiming to make data on the Internet easier to understand and interpret.
 
 The semantics in our paper is the desire for web information to be not only human readable, but also machine understandable. Extracting semantic information from data facilitates more advanced information interaction, intelligent search, automated tasks, and knowledge discovery.
 
@@ -94,9 +94,9 @@ Semantic and traditional labels are different in the way of formation process, f
 
 - From the perspective of data entities, labels are artificially pre-agreed symbols, and semantics are meaning feature in the data (as Reviewer TEpt said).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NjczODQ1NywyMTQyMTYwMTM3LC0xOD
-AwMTUzMDkxLC05NTkzMDE2OTQsLTEzOTkzNjgzMzQsNDM4ODU1
-NzY5LC0xMTE2NDY4Njc4LC0zMDM4OTc0NDQsMTUxNjkyMzYwOS
-wtNjc1Mzg2NDA0LDEwNTEyODIxMDQsLTExNTk5MzkwNjgsMTk3
-NjY4NTQ2OCwtMzc0MzMyNTYsMTQ2MzYzMjg2MV19
+eyJoaXN0b3J5IjpbLTE0MzU2NjY1OTcsMjE0MjE2MDEzNywtMT
+gwMDE1MzA5MSwtOTU5MzAxNjk0LC0xMzk5MzY4MzM0LDQzODg1
+NTc2OSwtMTExNjQ2ODY3OCwtMzAzODk3NDQ0LDE1MTY5MjM2MD
+ksLTY3NTM4NjQwNCwxMDUxMjgyMTA0LC0xMTU5OTM5MDY4LDE5
+NzY2ODU0NjgsLTM3NDMzMjU2LDE0NjM2MzI4NjFdfQ==
 -->
