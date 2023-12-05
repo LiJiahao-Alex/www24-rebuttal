@@ -53,9 +53,12 @@ We are very sorry that we may have caused misunderstanding. We have not conveyed
 
 - $\forall{(X,\widetilde{X})}\in{RvO(\mathcal{X})}$ The training set $X$ is all known semantics, and the test set $\widetilde{X}$ contains both known semantics and unknown semantics (anomalies).
 - For example, the training set is images of handwritten digits with nine semantics from 0 to 8, and the test set is images of handwritten digits with ten semantics from 0 to 9. At this point, the training set does not contain the unknown semantics 9 (anomalies).
+
+# 6.Find the best model design
+The last paragraph of Section 5 indicates that the key is finding the best model design to solve the overgeneralization problem.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDQxMjg4ODYsLTI0NTAzOTgzMCw4MD
-kyNjM3NzcsLTgyNjEyODM0MSwtMTkzOTg5MTYsLTIxMjQxMjQ1
-NDAsNzEwMTc5Njk0LC0xMjU3MzIyODkzLDQ3MjQ3MDMwMywtMT
-A5ODgwMjAxXX0=
+eyJoaXN0b3J5IjpbMTEwOTI2ODcyMCwtMTIwNDEyODg4NiwtMj
+Q1MDM5ODMwLDgwOTI2Mzc3NywtODI2MTI4MzQxLC0xOTM5ODkx
+NiwtMjEyNDEyNDU0MCw3MTAxNzk2OTQsLTEyNTczMjI4OTMsND
+cyNDcwMzAzLC0xMDk4ODAyMDFdfQ==
 -->
