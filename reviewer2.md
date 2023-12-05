@@ -62,14 +62,17 @@ Additionally, We appreciate your valuable commet, which has provided insightful 
 Finally, we sincerely thank you for your guidance. We will make further revisions to the paper to align with your suggestions and the expectations of the conference. We look forward to showcasing our unique contributions to the semantic web and knowledge management domain in the final version.
 
 
-# 4. Appendix analysis
+# 4. Appendix discussion
 Thank you for your careful review of our paper and your valuable suggestions. We understand your point about the lack of sufficient discussion for the additional analysis of appendix tables in the paper. We realize that the analysis in these appendices is essential for a deeper understanding of the research questions. Additional analysis could provide a more comprehensive interpretation of our findings as well as a close relationship to the main discussion. We discuss the results of these additional analyses in more detail and elaborate on how they interrelate to the main research findings and the implications for the research.
 
 ## 4.1 Table-6
 Table 6 in the appendix is explained in Section 7.2 of the paper (519-521 lines) and Appendix A (1047-1050 lines). Since the three datasets have different labels, we use the numbers 0-9 as a uniform label in order to simplify the table design. The purpose of Table 6 is to illustrate the correspondence between the numbers 0-9 and the true labels.
 
 ## 4.2 Table-7,8,9
-Tables 7-9 show the experimental results performed according to Eq.1 in Section 4 of the paper (321-338 lines).  The three tables show the AUROC, AUPRC, and best F1 score evaluation results in turn. Table 2 in the paper is the mean from Table 7-9 as described in Section 7.2 (541-547 lines ) and Appendix B (1052-1105 lines ). Our method outperforms the comparison methods in most of the molecular experiments. We'll add bar charts to get a better sense of how all the algorithms compare. SAE achieves a certain performance improvement compared to AE, which means that weighted sparse regularization is helpful for semantic learning. DAE also has a certain improvement compared with AE, which indicates that the noise addition and denoising processing of data can help the learning of semantic information. VAE achieves the second best result overall, which reflects that modeling the latent space is beneficial for learning semantics. MemAE achieves the third best overall performance, which verifies the previous point, but also illustrates that a reasonable latent space model design is required for semantic learning to achieve good results. MNAD uses an offline latent space model design, and its performance is not as good as other online methods, which indicates that the end-to-end design may be more helpful for learning semantics. SSPCAP did not achieve compelling performance gains as an operator design, validating the previous idea that latent space design is more helpful for learning semantics. exVAE is another representative of offline learning in the latent space, and it does not achieve much performance gain like MNAD. 
+Tables 7-9 show the experimental results performed according to Eq.1 in Section 4 of the paper (321-338 lines).  The three tables show the AUROC, AUPRC, and best F1 score evaluation results in turn. Table 2 in the paper is the mean from Table 7-9 as described in Section 7.2 (541-547 lines ) and Appendix B (1052-1105 lines ). Our method outperforms the comparison methods in most of the molecular experiments. We'll add bar charts to get a better sense of how all the algorithms compare. SAE achieves a certain performance improvement compared to AE, which means that weighted sparse regularization is helpful for semantic learning. DAE also has a certain improvement compared with AE, which indicates that the noise addition and denoising processing of data can help the learning of semantic information. VAE achieves the second best result overall, which reflects that modeling the latent space is beneficial for learning semantics. MemAE achieves the third best overall performance, which verifies the previous point, but also illustrates that a reasonable latent space model design is required for semantic learning to achieve good results. MNAD uses an offline latent space model design, and its performance is not as good as other online methods, which indicates that the end-to-end design may be more helpful for learning semantics. SSPCAP did not achieve compelling performance gains as an operator design, validating the previous idea that latent space design is more helpful for learning semantics. exVAE is another representative of offline learning in the latent space, and it does not achieve much performance gain like MNAD. With the help of the above experiments, the idea and guidance are provided for the final proposal of our method.
+
+## 4.3 Table-10,11
+
 
 # 5. Why called semantic overflow detection?
 
@@ -98,11 +101,11 @@ Semantic and traditional labels are different in the way of formation process, f
 
 In general, semantics focuses more on the semantic meaning of data or feature and helps computers understand the nature of data, while the traditional  labels focus more on the goal of model training and prediction.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0ODU0ODc5NywxMzIwNTcxNDcsMTE0Mj
-k4Mzk3LDgzMjA4MzkxMSwxMTYzNTg5MjMzLC00NDIyMzk0NDgs
-LTEzMzk0NzY5MzksMjE0MjE2MDEzNywtMTgwMDE1MzA5MSwtOT
-U5MzAxNjk0LC0xMzk5MzY4MzM0LDQzODg1NTc2OSwtMTExNjQ2
-ODY3OCwtMzAzODk3NDQ0LDE1MTY5MjM2MDksLTY3NTM4NjQwNC
-wxMDUxMjgyMTA0LC0xMTU5OTM5MDY4LDE5NzY2ODU0NjgsLTM3
-NDMzMjU2XX0=
+eyJoaXN0b3J5IjpbMTU2MzM3ODYwNSwxMzQ4NTQ4Nzk3LDEzMj
+A1NzE0NywxMTQyOTgzOTcsODMyMDgzOTExLDExNjM1ODkyMzMs
+LTQ0MjIzOTQ0OCwtMTMzOTQ3NjkzOSwyMTQyMTYwMTM3LC0xOD
+AwMTUzMDkxLC05NTkzMDE2OTQsLTEzOTkzNjgzMzQsNDM4ODU1
+NzY5LC0xMTE2NDY4Njc4LC0zMDM4OTc0NDQsMTUxNjkyMzYwOS
+wtNjc1Mzg2NDA0LDEwNTEyODIxMDQsLTExNTk5MzkwNjgsMTk3
+NjY4NTQ2OF19
 -->
