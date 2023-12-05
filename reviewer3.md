@@ -68,7 +68,10 @@ In summary, the message we want to convey to the reader is that during training,
 The reading of last paragraph of Section 5 **should be followed up with Section 6 (387-393 lines)**. The logic we like to state is that while finding the best model design is the key to solving the overgeneralization problem, it requires evaluation feedback during trainig. As mentioned in ``5. "No test set for anomalies"?``, evaluation cannot be performed during training, so the "find the best model design" scheme is not feasible.
 
 
-Model A-Evaluation of A 
+``Model A --> Evaluation of A --> Model modification -->
+Model B --> Evaluation of B --> Model modification -->
+Model V --> Evaluation of V --> Model modification --> ··· ···``
+ 
 Since the search for the best model design (key A), does not work without a test set, we turn to an alternative (key B). We use Table 1 to clarify the misunderstanding.
 
 |  | key A | key B |
@@ -77,8 +80,8 @@ Since the search for the best model design (key A), does not work without a test
 |Limitation| no test set evaluation feedback during training ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MjU2NTEyMSw4ODUwOTAzNjQsLTEyMD
-QxMjg4ODYsLTI0NTAzOTgzMCw4MDkyNjM3NzcsLTgyNjEyODM0
-MSwtMTkzOTg5MTYsLTIxMjQxMjQ1NDAsNzEwMTc5Njk0LC0xMj
-U3MzIyODkzLDQ3MjQ3MDMwMywtMTA5ODgwMjAxXX0=
+eyJoaXN0b3J5IjpbLTIwNzI5MjA1NTEsODg1MDkwMzY0LC0xMj
+A0MTI4ODg2LC0yNDUwMzk4MzAsODA5MjYzNzc3LC04MjYxMjgz
+NDEsLTE5Mzk4OTE2LC0yMTI0MTI0NTQwLDcxMDE3OTY5NCwtMT
+I1NzMyMjg5Myw0NzI0NzAzMDMsLTEwOTg4MDIwMV19
 -->
