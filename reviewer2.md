@@ -40,8 +40,8 @@ We are sorry that we did not clearly explain the comparison between VAE and our 
 - To show that our approach is effective, we **neither** perform a grid search over hyperparameters **nor** train with separate hyperparameters for each dataset as stated in Section7.1 of paper.
 - We evaluate all datasets using **no-tuning policy** to illustrate that our method can perform well even with naive setting.
  - Even when the variance is considered, our method **outperforms VAE in the worst case**.
-- In MNIST and Kuzushiji datasets, our method presents superiority. On the Fashion dataset, our method and VAE produce seemingly similar results. In the VAE results, hyperparameter grid search with batch size, beta value, learning rate, patience value of early stopping mechanism, weight decay is used. To explore the potential of performance of our approach, we also use the same technique and report our results in Table 1, denoted by Ours+.
-- 
+- In MNIST and Kuzushiji datasets, our method presents superiority. On the Fashion dataset, our method and VAE produce seemingly similar results. In the VAE results, hyperparameter grid search with batch size, beta value, learning rate, patience value of early stopping mechanism, weight decay is used. To explore the potential of performance of our approach, we also use the same technique and report our results in Table 1, denoted by Ours+. 
+
 |      | AUROC| AUPRC | best F1-Score|
 |------|------------|-------------|-------------|
 | VAE  | 70.61±0.24 | 22.90±0.32  |  31.97±0.25 |
@@ -49,6 +49,7 @@ We are sorry that we did not clearly explain the comparison between VAE and our 
 | Ours+ | s |  s | s  |
 Tabel 1-AUROC evaluation metric
 
+Due to the limitation of the rebuttal time window, we did not use as many alternative hyperparameters as VAE and used Bayesian search instead of grid search to speed up the experiment.
 
 # 3. Data format
 
@@ -84,7 +85,7 @@ Semantic and traditional labels are different in the way of formation process, f
 
 - From the perspective of data entities, labels are artificially pre-agreed symbols, and semantics are meaning feature in the data (as Reviewer TEpt said).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MDk1MDMwMCwtMTExNjQ2ODY3OCwtMz
+eyJoaXN0b3J5IjpbMTQwMTU4NjIwOCwtMTExNjQ2ODY3OCwtMz
 AzODk3NDQ0LDE1MTY5MjM2MDksLTY3NTM4NjQwNCwxMDUxMjgy
 MTA0LC0xMTU5OTM5MDY4LDE5NzY2ODU0NjgsLTM3NDMzMjU2LD
 E0NjM2MzI4NjFdfQ==
