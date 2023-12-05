@@ -52,9 +52,9 @@ We are very sorry for not introduce the above content in order to accommodate th
 We are very sorry that our statement may have caused misunderstanding. The message we want to convey is not "no test set for anomalies". We searched in the original paper and did not find such a statement either. We would like to make the following clarification.
 
 - $\forall{(X,\widetilde{X})}\in{RvO(\mathcal{X})}$ The training set $X$ is all known semantics, and the test set $\widetilde{X}$ contains both known semantics and unknown semantics (anomalies).
-- For example, the training set is images of handwritten digits with 9 semantics from 0 to 8, and the test set is images of handwritten digits with 10 semantics from 0 to 9.
+- For example, the training set is images of handwritten digits with 9 semantics from 0 to 8, and the test set is images of handwritten digits with 10 semantics from 0 to 9. At this point, the training set does not contain the unknown anomaly semantics 9.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzcwODUwOTMsODA5MjYzNzc3LC04Mj
-YxMjgzNDEsLTE5Mzk4OTE2LC0yMTI0MTI0NTQwLDcxMDE3OTY5
-NCwtMTI1NzMyMjg5Myw0NzI0NzAzMDMsLTEwOTg4MDIwMV19
+eyJoaXN0b3J5IjpbLTkyNjUyMjM3Nyw4MDkyNjM3NzcsLTgyNj
+EyODM0MSwtMTkzOTg5MTYsLTIxMjQxMjQ1NDAsNzEwMTc5Njk0
+LC0xMjU3MzIyODkzLDQ3MjQ3MDMwMywtMTA5ODgwMjAxXX0=
 -->
