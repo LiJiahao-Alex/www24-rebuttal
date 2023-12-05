@@ -33,7 +33,7 @@ It can be seen that SOD is a more complex scenario in line with unlabeled web da
 # 2. VAE v.s Ours
 
 ## 2.1 Seemingly similar results
-	
+We are sorry that we did not clearly explain the comparison between VAE and our performance thus causing some misunderstandings, which we will clarify below.
 |      | MNIST      | Fashion     | Kuzushiji   |
 |------|------------|-------------|-------------|
 | VAE  | 85.12±0.42 | 70.61±0.24  |  72.57±0.29 |
@@ -86,6 +86,7 @@ Semantic and traditional labels are different in the way of formation process, f
 
 - From the perspective of data entities, labels are artificially pre-agreed symbols, and semantics are meaning feature in the data (as Reviewer TEpt said).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTI4MjEwNCwtMTE1OTkzOTA2OCwxOT
-c2Njg1NDY4LC0zNzQzMzI1NiwxNDYzNjMyODYxXX0=
+eyJoaXN0b3J5IjpbLTY3NTM4NjQwNCwxMDUxMjgyMTA0LC0xMT
+U5OTM5MDY4LDE5NzY2ODU0NjgsLTM3NDMzMjU2LDE0NjM2MzI4
+NjFdfQ==
 -->
