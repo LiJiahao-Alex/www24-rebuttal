@@ -102,14 +102,14 @@ Semantic and traditional labels are different in the way of formation process, f
 In general, semantics focuses more on the semantic meaning of data or feature and helps computers understand the nature of data, while the traditional  labels focus more on the goal of model training and prediction.
 
 ```
-
+Thank you again for your careful review of the paper and your helpful suggestions. Your feedback has been critical to improving the research and our team has benefited greatly from it. I have carefully considered each of the points you have raised and have amended and clarified in accordance with your suggestions and guidance. These suggestions not only improved the quality of the paper, but also contributed a lot to the in-depth insights of the paper. Thank you again for your time and professional advice. If you have any further suggestions for this paper, please do not hesitate to contact us.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NjIzODUzNSwtMTYzNTg2NDk2NywyOD
-M4NDYyOTcsMTM0ODU0ODc5NywxMzIwNTcxNDcsMTE0Mjk4Mzk3
-LDgzMjA4MzkxMSwxMTYzNTg5MjMzLC00NDIyMzk0NDgsLTEzMz
-k0NzY5MzksMjE0MjE2MDEzNywtMTgwMDE1MzA5MSwtOTU5MzAx
-Njk0LC0xMzk5MzY4MzM0LDQzODg1NTc2OSwtMTExNjQ2ODY3OC
-wtMzAzODk3NDQ0LDE1MTY5MjM2MDksLTY3NTM4NjQwNCwxMDUx
-MjgyMTA0XX0=
+eyJoaXN0b3J5IjpbNTQwMDI4MTA2LDE0NjYyMzg1MzUsLTE2Mz
+U4NjQ5NjcsMjgzODQ2Mjk3LDEzNDg1NDg3OTcsMTMyMDU3MTQ3
+LDExNDI5ODM5Nyw4MzIwODM5MTEsMTE2MzU4OTIzMywtNDQyMj
+M5NDQ4LC0xMzM5NDc2OTM5LDIxNDIxNjAxMzcsLTE4MDAxNTMw
+OTEsLTk1OTMwMTY5NCwtMTM5OTM2ODMzNCw0Mzg4NTU3NjksLT
+ExMTY0Njg2NzgsLTMwMzg5NzQ0NCwxNTE2OTIzNjA5LC02NzUz
+ODY0MDRdfQ==
 -->
