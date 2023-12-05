@@ -68,9 +68,7 @@ Finally, we sincerely thank you for your guidance. We will make further revision
 Table 6 in the appendix is explained in Section 7.2 of the paper (519-521 lines) and Appendix A (1047-1050 lines). Since the three datasets have different labels, we use the numbers 0-9 as a uniform label in order to simplify the table design. The purpose of Table 6 is to illustrate the correspondence between the numbers 0-9 and the true labels.
 
 ## 4.2 Table-7,8,9
-Tables 7-9 show the experimental results performed according to Eq.1 in Section 4 of the paper (321-338 lines).  The three tables show the AUROC, AUPRC, and best F1 score evaluation results in turn. 
-
-Our method outperforms the comparison methods in most of the molecular experiments. We'll add bar charts to get a better sense of how all the algorithms compare.
+Tables 7-9 show the experimental results performed according to Eq.1 in Section 4 of the paper (321-338 lines).  The three tables show the AUROC, AUPRC, and best F1 score evaluation results in turn. Table 2 in the paper is the mean from Table 7-9 as described in Section 7.2 (541-547 lines ) and Appendix B (1052-1105 lines ). Our method outperforms the comparison methods in most of the molecular experiments. We'll add bar charts to get a better sense of how all the algorithms compare.
 
 # 5. Why called semantic overflow detection?
 
@@ -99,7 +97,7 @@ Semantic and traditional labels are different in the way of formation process, f
 
 In general, semantics focuses more on the semantic meaning of data or feature and helps computers understand the nature of data, while the traditional  labels focus more on the goal of model training and prediction.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MzQ2NjgxNiw4MzIwODM5MTEsMTE2Mz
+eyJoaXN0b3J5IjpbMTg2NjQzNzE0OCw4MzIwODM5MTEsMTE2Mz
 U4OTIzMywtNDQyMjM5NDQ4LC0xMzM5NDc2OTM5LDIxNDIxNjAx
 MzcsLTE4MDAxNTMwOTEsLTk1OTMwMTY5NCwtMTM5OTM2ODMzNC
 w0Mzg4NTU3NjksLTExMTY0Njg2NzgsLTMwMzg5NzQ0NCwxNTE2
