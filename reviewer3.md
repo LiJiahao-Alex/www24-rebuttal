@@ -49,12 +49,14 @@ F1 is equivalent to the comprehensive evaluation metric of precision and recall.
 We are very sorry for not introduce the above content in order to accommodate the page limit of the paper. We immediately supplemented the paper according to your suggestions and guidance.
 
 # 5. No test set for anomalies?
-We are very sorry that we may have caused misunderstanding. We have not conveyed the information of "no test set for anomalies". We searched "no test set for anomalies" in the original paper and did not find such a statement either. The only similar quote we find is in Section VI (line 388). there is no test set evaluation feedback during traini
+We are very sorry that we may have caused misunderstanding. We have not conveyed the information of "no test set for anomalies". We searched "no test set for anomalies" in the original paper and did not find such a statement either. The only similar quote in paper we find is in Section VI (388 line).
+>"there is no test set evaluation feedback during trainining"
 
 We would like to make the following clarification.
 
 - $\forall{(X,\widetilde{X})}\in{RvO(\mathcal{X})}$ The training set $X$ is all known semantics, and the test set $\widetilde{X}$ contains both known semantics and unknown semantics (anomalies).
 - For example, the training set is images of handwritten digits with nine semantics from 0 to 8, and the test set is images of handwritten digits with ten semantics from 0 to 9. At this point, the training set does not contain the unknown semantics 9 (anomalies).
+- 
 
 # 6.Find the best model design
 "The last paragraph of Section 5 indicates that the key is finding the best model design to solve the overgeneralization problem." The reading of last paragraph of Section 5 **should be followed up with Section 6 (387-393 lines)**. The logic we like to state is that while finding the best model design is the key to solving the overgeneralization problem, it is not the only key.
@@ -65,8 +67,8 @@ We would like to make the following clarification.
 |Disadvantage| no test set evaluation feedback during training ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MDQyMzM1MywtMTIwNDEyODg4NiwtMj
-Q1MDM5ODMwLDgwOTI2Mzc3NywtODI2MTI4MzQxLC0xOTM5ODkx
-NiwtMjEyNDEyNDU0MCw3MTAxNzk2OTQsLTEyNTczMjI4OTMsND
-cyNDcwMzAzLC0xMDk4ODAyMDFdfQ==
+eyJoaXN0b3J5IjpbLTE2MDAzNzk5ODcsLTEyMDQxMjg4ODYsLT
+I0NTAzOTgzMCw4MDkyNjM3NzcsLTgyNjEyODM0MSwtMTkzOTg5
+MTYsLTIxMjQxMjQ1NDAsNzEwMTc5Njk0LC0xMjU3MzIyODkzLD
+Q3MjQ3MDMwMywtMTA5ODgwMjAxXX0=
 -->
