@@ -30,7 +30,7 @@ Thank you very much for your constructive suggestions, which made us realize tha
 **AUROC ignores data imbalance.** The AUROC is calculated using the area under the ROC curve, which is plotted from the True Positive Rate (TPR) and False Positive Rate (FPR) at different thresholds. 
 $$TPR = \frac{TP}{TP+FN}$$
 $$FPR = \frac{FP}{FP+TN}$$
-The whole focus of TPR and FPR is **the prediction ability of positive samples**, that is, the correct TPR of positive samples is predicted and the confusion of positive samples caused by the wrong prediction of negative samples. When the sample is **imbalanced**, FPR will be a bad indicator because **the amount of TN is large, the effect of FP becomes small, and FPR changes very little**.
+The whole focus of TPR and FPR is **the prediction ability of positive samples**, that is, the correct TPR of positive samples is predicted and the confusion of positive samples caused by the wrong prediction of negative samples. When the sample is **imbalanced**, i.e. $\rho<0.5$, FPR will be a bad indicator because **the amount of TN is large, the effect of FP becomes small, and FPR changes very little**.
 
 ## 4.2 Why AUPRC?
 For above situation, precision will be a better indicator, **the impact of FP will be highlighted**, and TP is much smaller than TN.
@@ -49,13 +49,13 @@ F1 is equivalent to the comprehensive evaluation metric of precision and recall.
 We are very sorry for not introduce the above content in order to accommodate the page limit of the paper. We immediately supplemented the paper according to your suggestions and guidance.
 
 # 5. No test set for anomalies?
-We are very sorry that our statement may have caused misunderstanding. The message we want to convey is not "no test set for anomalies". We searched "no test set for anomalies" in the original paper and did not find such a statement either. We would like to make the following clarification.
+We are very sorry that our statement may have caused misunderstanding. We have not conveyed the information of "no test set for anomalies". We searched "no test set for anomalies" in the original paper and did not find such a statement either. We would like to make the following clarification.
 
 - $\forall{(X,\widetilde{X})}\in{RvO(\mathcal{X})}$ The training set $X$ is all known semantics, and the test set $\widetilde{X}$ contains both known semantics and unknown semantics (anomalies).
 - For example, the training set is images of handwritten digits with nine semantics from 0 to 8, and the test set is images of handwritten digits with ten semantics from 0 to 9. At this point, the training set does not contain the unknown semantics 9 (anomalies).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MzEyODk2NywtMjQ1MDM5ODMwLDgwOT
-I2Mzc3NywtODI2MTI4MzQxLC0xOTM5ODkxNiwtMjEyNDEyNDU0
-MCw3MTAxNzk2OTQsLTEyNTczMjI4OTMsNDcyNDcwMzAzLC0xMD
-k4ODAyMDFdfQ==
+eyJoaXN0b3J5IjpbNTYwNjYxMTg3LC0yNDUwMzk4MzAsODA5Mj
+YzNzc3LC04MjYxMjgzNDEsLTE5Mzk4OTE2LC0yMTI0MTI0NTQw
+LDcxMDE3OTY5NCwtMTI1NzMyMjg5Myw0NzI0NzAzMDMsLTEwOT
+g4MDIwMV19
 -->
