@@ -55,7 +55,9 @@ I understand your concern about the field of Semantic Web and Knowledge Manageme
 
 Firstly, the choice of MNIST, FashionMNIST, and Kuzushiji datasets was not solely driven by an interest in image processing per se. Instead, these datasets were selected as a medium for exploring the integration of visual and semantic information to enhance the understanding of relationships between entities within the Semantic Web environment. Recognizing the unique position of image data in modern information sharing and transmission on the web, our study aims to provide new perspectives, emphasizing the irreplaceability of image data in knowledge management. We believe that such research can provide a new and multimodal approach to the construction of knowledge graphs and the representation of semantic information.
 
+we appreciate your valuable question, which has provided insightful directions for our research. To better address the needs of the Semantic Web domain, we plan to broaden the scope of datasets in future research, including various forms of data and delving deeper into semantic understanding. We believe this will provide comprehensive and profound support for our study.
 
+Finally, I sincerely thank you for your guidance. We will make further revisions to the paper to align with your suggestions and the expectations of the conference. I look forward to showcasing our unique contributions to the Semantic Web and Knowledge Management domain in the final version.
 
 
 # 4. Appendix analysis
@@ -87,7 +89,7 @@ Semantic and traditional labels are different in the way of formation process, f
 
 - From the perspective of data entities, labels are artificially pre-agreed symbols, and semantics are meaning feature in the data (as Reviewer TEpt said).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA1NTExOTA1LC0xMzk5MzY4MzM0LDQzOD
+eyJoaXN0b3J5IjpbNjAxNTIyNTU4LC0xMzk5MzY4MzM0LDQzOD
 g1NTc2OSwtMTExNjQ2ODY3OCwtMzAzODk3NDQ0LDE1MTY5MjM2
 MDksLTY3NTM4NjQwNCwxMDUxMjgyMTA0LC0xMTU5OTM5MDY4LD
 E5NzY2ODU0NjgsLTM3NDMzMjU2LDE0NjM2MzI4NjFdfQ==
