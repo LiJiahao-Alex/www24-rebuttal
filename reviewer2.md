@@ -35,9 +35,9 @@ It can be seen that SOD is a more complex scenario in line with unlabeled web da
 ## 2.1 Seemingly similar results
 We are sorry that we did not clearly explain the comparison between VAE and our performance thus causing some misunderstandings, which we will clarify below.
 
-- VAE is the best performance obtained under grid search trials with hyperparameters such as batch size and learning rate.
-- VAE performs a grid search on each dataset separately for the best performance.
-- To show that our approach is effective, we neither perform a grid search over hyperparameters nor train with separate hyperparameters for each dataset.
+- VAE is the **best performance obtained under grid search trials** with hyperparameters such as batch size and learning rate.
+- VAE performs **a grid search on each dataset separately** for the best performance.
+- To show that our approach is effective, we **neither** perform a grid search over hyperparameters **nor** train with separate hyperparameters for each dataset as stated in Sec.
 - 
 - Even when the variance is considered, our method outperforms VAE in the worst case.
 - 
@@ -93,7 +93,7 @@ Semantic and traditional labels are different in the way of formation process, f
 
 - From the perspective of data entities, labels are artificially pre-agreed symbols, and semantics are meaning feature in the data (as Reviewer TEpt said).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjkyMzYwOSwtNjc1Mzg2NDA0LDEwNT
-EyODIxMDQsLTExNTk5MzkwNjgsMTk3NjY4NTQ2OCwtMzc0MzMy
-NTYsMTQ2MzYzMjg2MV19
+eyJoaXN0b3J5IjpbLTE5MTg4NjgxOTgsMTUxNjkyMzYwOSwtNj
+c1Mzg2NDA0LDEwNTEyODIxMDQsLTExNTk5MzkwNjgsMTk3NjY4
+NTQ2OCwtMzc0MzMyNTYsMTQ2MzYzMjg2MV19
 -->
