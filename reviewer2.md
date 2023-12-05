@@ -84,7 +84,6 @@ For example, if we deploy a dog classification model on a web page, we want the 
 Based on the above examples, we outline our conception of unknown semantic detection. To illustrate that an unknown semantics is one that is beyond the scope of a predefined semantics, we call it semantic overflow detection, which is to detect the access that is not included by the system preset at the semantic level.
 
 
-
 # 6. Definition of semantics
 
 ## 6.1 Definition
@@ -102,7 +101,7 @@ Semantic and traditional labels are different in the way of formation process, f
 
 In general, semantics focuses more on the semantic meaning of data or feature and helps computers understand the nature of data, while the traditional  labels focus more on the goal of model training and prediction.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTE1MzUxNDMsLTE2MzU4NjQ5NjcsMj
+eyJoaXN0b3J5IjpbLTE0NTk4NjkzMDUsLTE2MzU4NjQ5NjcsMj
 gzODQ2Mjk3LDEzNDg1NDg3OTcsMTMyMDU3MTQ3LDExNDI5ODM5
 Nyw4MzIwODM5MTEsMTE2MzU4OTIzMywtNDQyMjM5NDQ4LC0xMz
 M5NDc2OTM5LDIxNDIxNjAxMzcsLTE4MDAxNTMwOTEsLTk1OTMw
