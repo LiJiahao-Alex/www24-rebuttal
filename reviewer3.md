@@ -64,9 +64,7 @@ We would like to make the following clarification.
 
 In summary, the message we want to convey to the reader is that during training, evaluation cannot be performed. 
 
-and therefore performance evaluation is not available.
-
-# 6.Find the best model design
+# 6.We do not try to "find the best model design"
 "The last paragraph of Section 5 indicates that the key is finding the best model design to solve the overgeneralization problem." The reading of last paragraph of Section 5 **should be followed up with Section 6 (387-393 lines)**. The logic we like to state is that while finding the best model design is the key to solving the overgeneralization problem, it is not the only key.
 
 |  | key A (Section5) | key B (Section6) |
@@ -75,7 +73,7 @@ and therefore performance evaluation is not available.
 |Disadvantage| no test set evaluation feedback during training ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM0MDMzOTIzLC0xMjA0MTI4ODg2LC0yND
+eyJoaXN0b3J5IjpbODg1MDkwMzY0LC0xMjA0MTI4ODg2LC0yND
 UwMzk4MzAsODA5MjYzNzc3LC04MjYxMjgzNDEsLTE5Mzk4OTE2
 LC0yMTI0MTI0NTQwLDcxMDE3OTY5NCwtMTI1NzMyMjg5Myw0Nz
 I0NzAzMDMsLTEwOTg4MDIwMV19
