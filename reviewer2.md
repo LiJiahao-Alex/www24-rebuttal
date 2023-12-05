@@ -40,6 +40,7 @@ We are sorry that we did not clearly explain the comparison between VAE and our 
 - To show that our approach is effective, we **neither** perform a grid search over hyperparameters **nor** train with separate hyperparameters for each dataset as stated in Section7.1 of paper.
 - Even when the variance is considered, our method outperforms VAE in the worst case.
 - In MNIST and Kuzushiji datasets, our method presents superiority. On the Fashion dataset, our method and VAE produce seemingly similar results due to the more complex semantics of this dataset.
+- In the VAE results, hyperparameter grid search with batch size, beta value, learning rate, patience value of early stopping mechanism, weight decay is used. To explore the performance limits of our approach, we also use the same technique and report our results in Table 1, denoted by Ours+.
 - 
 |      | AUROC| AUPRC | best F1-Score|
 |------|------------|-------------|-------------|
@@ -83,8 +84,8 @@ Semantic and traditional labels are different in the way of formation process, f
 
 - From the perspective of data entities, labels are artificially pre-agreed symbols, and semantics are meaning feature in the data (as Reviewer TEpt said).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTY0Njg2NzgsLTMwMzg5NzQ0NCwxNT
-E2OTIzNjA5LC02NzUzODY0MDQsMTA1MTI4MjEwNCwtMTE1OTkz
-OTA2OCwxOTc2Njg1NDY4LC0zNzQzMzI1NiwxNDYzNjMyODYxXX
-0=
+eyJoaXN0b3J5IjpbLTExMzExODk0NzQsLTExMTY0Njg2NzgsLT
+MwMzg5NzQ0NCwxNTE2OTIzNjA5LC02NzUzODY0MDQsMTA1MTI4
+MjEwNCwtMTE1OTkzOTA2OCwxOTc2Njg1NDY4LC0zNzQzMzI1Ni
+wxNDYzNjMyODYxXX0=
 -->
