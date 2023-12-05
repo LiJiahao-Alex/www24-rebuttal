@@ -8,8 +8,9 @@ We are sorry that the statement in Section 2 (lines 243-254) may have cause read
 - **Difference.** $Y_{X_{OCC}}=\{(x, y)|\forall x \in X_{OCC}, y=1\}$, while $$Y_{X_{SOD}}=\{(x, y)|\forall x \in X_{SOD}, y=1,2, \cdots, k, 1<k \leq| X_{SOD} \mid\}$$
 - **Connection.** When $k=1$, the SOD problem degenerates to the OCC problem.
 
+In simple terms, although SOD and OCC both detect unknown semantics in the open set, OCC explicitly requires the known semantics to be single semantics.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2NzQ3ODAsNzEwMTc5Njk0LC0xMjU3Mz
-IyODkzLDQ3MjQ3MDMwMywtMTA5ODgwMjAxXX0=
+eyJoaXN0b3J5IjpbLTU5OTc1ODA2OSw3MTAxNzk2OTQsLTEyNT
+czMjI4OTMsNDcyNDcwMzAzLC0xMDk4ODAyMDFdfQ==
 -->
