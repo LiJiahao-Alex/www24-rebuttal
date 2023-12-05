@@ -58,7 +58,7 @@ We would like to make the following clarification.
 - For example, the training set is images of handwritten digits with nine semantics from 0 to 8, and the test set is images of handwritten digits with ten semantics from 0 to 9. At this point, the training set does not contain the unknown semantics 9 (anomalies).
 - In the training phase, the training set is available and the test set is not.
 - In the testing phase, the training set is not available and the testing set is available.
-- 
+- The three evaluation methods of AUROC, AUPRC and F1 score need to be performed on the test set.
 
 # 6.Find the best model design
 "The last paragraph of Section 5 indicates that the key is finding the best model design to solve the overgeneralization problem." The reading of last paragraph of Section 5 **should be followed up with Section 6 (387-393 lines)**. The logic we like to state is that while finding the best model design is the key to solving the overgeneralization problem, it is not the only key.
@@ -69,8 +69,8 @@ We would like to make the following clarification.
 |Disadvantage| no test set evaluation feedback during training ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM1MjM3MjQyLC0xMjA0MTI4ODg2LC0yND
-UwMzk4MzAsODA5MjYzNzc3LC04MjYxMjgzNDEsLTE5Mzk4OTE2
-LC0yMTI0MTI0NTQwLDcxMDE3OTY5NCwtMTI1NzMyMjg5Myw0Nz
-I0NzAzMDMsLTEwOTg4MDIwMV19
+eyJoaXN0b3J5IjpbMjA4OTQ4Nzc4OSwtMTIwNDEyODg4NiwtMj
+Q1MDM5ODMwLDgwOTI2Mzc3NywtODI2MTI4MzQxLC0xOTM5ODkx
+NiwtMjEyNDEyNDU0MCw3MTAxNzk2OTQsLTEyNTczMjI4OTMsND
+cyNDcwMzAzLC0xMDk4ODAyMDFdfQ==
 -->
