@@ -81,6 +81,7 @@ Based on the above examples, we outline our conception of unknown semantic detec
 
 ## 6.1 Definition
 
+The semantics in our paper is the desire for web information to be not only human readable, but also machine understandable. Extracting semantic information from data facilitates more advanced information interaction, intelligent search, automated tasks, and knowledge discovery.
 
 ## 6.2 Difference between semantics and labels
 Semantic and traditional labels are different in the way of formation process, fine granularity and data entity. Here are the details:
@@ -91,9 +92,9 @@ Semantic and traditional labels are different in the way of formation process, f
 
 - From the perspective of data entities, labels are artificially pre-agreed symbols, and semantics are meaning feature in the data (as Reviewer TEpt said).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MjE2MDEzNywtMTgwMDE1MzA5MSwtOT
-U5MzAxNjk0LC0xMzk5MzY4MzM0LDQzODg1NTc2OSwtMTExNjQ2
-ODY3OCwtMzAzODk3NDQ0LDE1MTY5MjM2MDksLTY3NTM4NjQwNC
-wxMDUxMjgyMTA0LC0xMTU5OTM5MDY4LDE5NzY2ODU0NjgsLTM3
-NDMzMjU2LDE0NjM2MzI4NjFdfQ==
+eyJoaXN0b3J5IjpbLTQzNDQ4NjA0OCwyMTQyMTYwMTM3LC0xOD
+AwMTUzMDkxLC05NTkzMDE2OTQsLTEzOTkzNjgzMzQsNDM4ODU1
+NzY5LC0xMTE2NDY4Njc4LC0zMDM4OTc0NDQsMTUxNjkyMzYwOS
+wtNjc1Mzg2NDA0LDEwNTEyODIxMDQsLTExNTk5MzkwNjgsMTk3
+NjY4NTQ2OCwtMzc0MzMyNTYsMTQ2MzYzMjg2MV19
 -->
