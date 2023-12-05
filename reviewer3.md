@@ -56,6 +56,8 @@ We would like to make the following clarification.
 
 - $\forall{(X,\widetilde{X})}\in{RvO(\mathcal{X})}$ The training set $X$ is all known semantics, and the test set $\widetilde{X}$ contains both known semantics and unknown semantics (anomalies).
 - For example, the training set is images of handwritten digits with nine semantics from 0 to 8, and the test set is images of handwritten digits with ten semantics from 0 to 9. At this point, the training set does not contain the unknown semantics 9 (anomalies).
+- In the training phase, the training set is available and the test set is not.
+- In the testing phase, the training set is not available and the testing set is available.
 - 
 
 # 6.Find the best model design
@@ -67,8 +69,8 @@ We would like to make the following clarification.
 |Disadvantage| no test set evaluation feedback during training ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDAzNzk5ODcsLTEyMDQxMjg4ODYsLT
-I0NTAzOTgzMCw4MDkyNjM3NzcsLTgyNjEyODM0MSwtMTkzOTg5
-MTYsLTIxMjQxMjQ1NDAsNzEwMTc5Njk0LC0xMjU3MzIyODkzLD
-Q3MjQ3MDMwMywtMTA5ODgwMjAxXX0=
+eyJoaXN0b3J5IjpbOTM1MjM3MjQyLC0xMjA0MTI4ODg2LC0yND
+UwMzk4MzAsODA5MjYzNzc3LC04MjYxMjgzNDEsLTE5Mzk4OTE2
+LC0yMTI0MTI0NTQwLDcxMDE3OTY5NCwtMTI1NzMyMjg5Myw0Nz
+I0NzAzMDMsLTEwOTg4MDIwMV19
 -->
