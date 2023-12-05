@@ -59,11 +59,12 @@ We are very sorry that we may have caused misunderstanding. We have not conveyed
 
 |  | key A (Section5) | key B (Section6) |
 |--|--|--|
-|  | Find the best model design. | Introduce a generalization suppressor. |
+| Method | Find the best model design. | Introduce a generalization suppressor. |
+|Disadvantage| no test set evaluation feedback during training ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTg4Mjk4OCwtMTIwNDEyODg4NiwtMj
-Q1MDM5ODMwLDgwOTI2Mzc3NywtODI2MTI4MzQxLC0xOTM5ODkx
-NiwtMjEyNDEyNDU0MCw3MTAxNzk2OTQsLTEyNTczMjI4OTMsND
-cyNDcwMzAzLC0xMDk4ODAyMDFdfQ==
+eyJoaXN0b3J5IjpbLTgxNDc2NDExLC0xMjA0MTI4ODg2LC0yND
+UwMzk4MzAsODA5MjYzNzc3LC04MjYxMjgzNDEsLTE5Mzk4OTE2
+LC0yMTI0MTI0NTQwLDcxMDE3OTY5NCwtMTI1NzMyMjg5Myw0Nz
+I0NzAzMDMsLTEwOTg4MDIwMV19
 -->
