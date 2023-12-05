@@ -92,11 +92,11 @@ Semantic and traditional labels are different in the way of formation process, f
 
 - From the perspective of data entities, labels are artificially pre-agreed symbols, and semantics are meaning feature in the data (as Reviewer TEpt said).
 
-In general, semantics focuses more on the semantic meaning of data and helps computers understand the nature of data, while labels in traditional machine learning focus more on the goal of model training and prediction.
+In general, semantics focuses more on the semantic meaning of data or feature and helps computers understand the nature of data, while the traditional  labels focus more on the goal of model training and prediction.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTk1Njc2NywyMTQyMTYwMTM3LC0xOD
-AwMTUzMDkxLC05NTkzMDE2OTQsLTEzOTkzNjgzMzQsNDM4ODU1
-NzY5LC0xMTE2NDY4Njc4LC0zMDM4OTc0NDQsMTUxNjkyMzYwOS
-wtNjc1Mzg2NDA0LDEwNTEyODIxMDQsLTExNTk5MzkwNjgsMTk3
-NjY4NTQ2OCwtMzc0MzMyNTYsMTQ2MzYzMjg2MV19
+eyJoaXN0b3J5IjpbLTEzMzk0NzY5MzksMjE0MjE2MDEzNywtMT
+gwMDE1MzA5MSwtOTU5MzAxNjk0LC0xMzk5MzY4MzM0LDQzODg1
+NTc2OSwtMTExNjQ2ODY3OCwtMzAzODk3NDQ0LDE1MTY5MjM2MD
+ksLTY3NTM4NjQwNCwxMDUxMjgyMTA0LC0xMTU5OTM5MDY4LDE5
+NzY2ODU0NjgsLTM3NDMzMjU2LDE0NjM2MzI4NjFdfQ==
 -->
