@@ -32,7 +32,6 @@ It can be seen that SOD is a more complex scenario in line with unlabeled web da
 
 # 2. VAE v.s Ours
 
-## 2.1 Seemingly similar results
 We are sorry that we did not clearly explain the comparison between VAE and our performance thus causing some misunderstandings, which we will clarify below.
 
 - VAE is the **best performance obtained under grid search trials** with hyperparameters such as batch size and learning rate.
@@ -47,7 +46,7 @@ We are sorry that we did not clearly explain the comparison between VAE and our 
 | VAE  | 70.61±0.24 | 22.90±0.32  |  31.97±0.25 |
 | Ours | 71.22±0.46 |  24.21±0.37 | 33.36±0.40  |
 | Ours+ | 74.61±0.39 |  26.84±0.33 | 35.91±0.39  |
-Tabel 1-Ours vs VAE on Fashion without no
+Tabel 1-Ours perfomance on Fashion without no-tuning policy
 
 Due to the limitation of the rebuttal time window, we did not use as many alternative hyperparameters as VAE and used Bayesian search instead of grid search to speed up the experiment. Even in this case, we get a good result that shows that our method outperforms the VAE, even when considering the variance.
 
@@ -85,8 +84,8 @@ Semantic and traditional labels are different in the way of formation process, f
 
 - From the perspective of data entities, labels are artificially pre-agreed symbols, and semantics are meaning feature in the data (as Reviewer TEpt said).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTk4MDk5MTUsLTExMTY0Njg2NzgsLT
-MwMzg5NzQ0NCwxNTE2OTIzNjA5LC02NzUzODY0MDQsMTA1MTI4
-MjEwNCwtMTE1OTkzOTA2OCwxOTc2Njg1NDY4LC0zNzQzMzI1Ni
-wxNDYzNjMyODYxXX0=
+eyJoaXN0b3J5IjpbNDM4ODU1NzY5LC0xMTE2NDY4Njc4LC0zMD
+M4OTc0NDQsMTUxNjkyMzYwOSwtNjc1Mzg2NDA0LDEwNTEyODIx
+MDQsLTExNTk5MzkwNjgsMTk3NjY4NTQ2OCwtMzc0MzMyNTYsMT
+Q2MzYzMjg2MV19
 -->
