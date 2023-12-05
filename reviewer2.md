@@ -74,6 +74,7 @@ Tables 7-9 show the experimental results performed according to Eq.1 in Section 
 ## 4.3 Table-10,11
 
 
+We are committed to fully covering the analyses in these appendices in the final version of the paper to ensure that readers can have a clear and comprehensive understanding of all aspects of the study.
 # 5. Why called semantic overflow detection?
 
 The name semantic overflow detection was originally inspired by HTTP 404 Not Found Error. Specifically, when the Web data or page is accessed by an address or URL, a 404 error is returned to let the consumer knwon if the target does not exist. It would be disastrous if the target didn't exist and the Web returned what the system thought was an approximate page or data without telling it. This situation doesn't happen thanks to 404 Not Found Error, however, it does happen in the semantic-level query.
@@ -101,11 +102,11 @@ Semantic and traditional labels are different in the way of formation process, f
 
 In general, semantics focuses more on the semantic meaning of data or feature and helps computers understand the nature of data, while the traditional  labels focus more on the goal of model training and prediction.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MzM3ODYwNSwxMzQ4NTQ4Nzk3LDEzMj
-A1NzE0NywxMTQyOTgzOTcsODMyMDgzOTExLDExNjM1ODkyMzMs
-LTQ0MjIzOTQ0OCwtMTMzOTQ3NjkzOSwyMTQyMTYwMTM3LC0xOD
-AwMTUzMDkxLC05NTkzMDE2OTQsLTEzOTkzNjgzMzQsNDM4ODU1
-NzY5LC0xMTE2NDY4Njc4LC0zMDM4OTc0NDQsMTUxNjkyMzYwOS
-wtNjc1Mzg2NDA0LDEwNTEyODIxMDQsLTExNTk5MzkwNjgsMTk3
-NjY4NTQ2OF19
+eyJoaXN0b3J5IjpbMjgzODQ2Mjk3LDEzNDg1NDg3OTcsMTMyMD
+U3MTQ3LDExNDI5ODM5Nyw4MzIwODM5MTEsMTE2MzU4OTIzMywt
+NDQyMjM5NDQ4LC0xMzM5NDc2OTM5LDIxNDIxNjAxMzcsLTE4MD
+AxNTMwOTEsLTk1OTMwMTY5NCwtMTM5OTM2ODMzNCw0Mzg4NTU3
+NjksLTExMTY0Njg2NzgsLTMwMzg5NzQ0NCwxNTE2OTIzNjA5LC
+02NzUzODY0MDQsMTA1MTI4MjEwNCwtMTE1OTkzOTA2OCwxOTc2
+Njg1NDY4XX0=
 -->
