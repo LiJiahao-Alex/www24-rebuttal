@@ -30,7 +30,7 @@ Here are two examples for better illustration.
 
 It can be seen that SOD is a more complex scenario in line with unlabeled web data. If it is possible to label everyone in the video surveillance except the suspect (OSR case), the difficulty of finding the suspect will be greatly reduced. However, the cost of labeling is high. **Therefore, the SOD is not ignoring the label, but a situation that is unable to access the label.** The SOD is meaningful, and there are specific application scenarios related to the web and big data behind it.
 
-# 2. VAE v.s Ours
+# 2. VAE v.s. Ours
 
 We are sorry that we did not clearly explain the comparison between VAE and our performance thus causing some misunderstandings, which we will clarify below.
 
@@ -50,7 +50,7 @@ Tabel 1-Ours perfomance on Fashion without no-tuning policy
 
 Due to the limitation of the rebuttal time window, we did not use as many alternative hyperparameters as VAE and used Bayesian search instead of grid search to speed up the experiment. Even in this case, we get a good result that shows that our method outperforms the VAE, even when considering the variance.
 
-# 3. Data format
+# 3. Data format  (Q3)
 I understand your concern about the field of semantic web and knowledge management, and I would like to explain our research design in the following ways:
 
 Firstly, the choice of MNIST, FashionMNIST, and Kuzushiji datasets was not solely driven by an interest in image processing per se. Instead, these datasets were selected as a medium for exploring the integration of visual and semantic information to enhance the understanding of relationships between entities within the semantic web and knowledge management environment. Recognizing the unique position of image data in modern information sharing and transmission on the web, our study aims to provide new perspectives, emphasizing the irreplaceability of image data in the semantic web and knowledge management. We believe that such research can provide a new approach to the management of knowledge and the representation of semantic information.
@@ -75,7 +75,7 @@ Tables 7-9 show the experimental results performed according to Eq.1 in Section 
 Tables 10,11 show ablation experiments on MNIST dataset for external and internal retrieval, respectively. They performed according to Eq.1 in Section 4 of the paper (321-338 lines).  Tables 10 and 11 are introduced in Section 7.3 (818-820 lines ) and Appendix C (1106-1103 lines ). Table 5 reports the mean results for Tables 10 and 11, respectively. We examined the effect of different retrieval techniques on semantic learning under different retrieval modalities. Overall, external retrieval is always better than internal retrieval. From the perspective of the retrieval tricks, using no tricks is the best performance for the external retrieval method. However, for self-retrieval, it is optimal to not use softmax and just keep other retrieval tricks. This indicates that the self-retrieval mechanism internally relies on a certain combination of retrieval skills to achieve higher performance, while external retrieval does not. In addition, it can be found by plotting that the performance of all sub-experiments is higher than the comparison case when no retrieval tricks are applied to external retrieval. The above observation suggests that none of these retrieval tricks are necessary for external retrieval, which conforms to Occam’s razor principle with minimalism and optimal performance.
 
 Thanks again for your comments. We are committed to fully covering the analyses in these appendices in the final version of the paper to ensure that readers can have a clear and comprehensive understanding of all aspects of the study.
-# 5. Why called semantic overflow detection?
+# 5. Why called semantic overflow detection? (Q1)
 
 The name semantic overflow detection was originally inspired by HTTP 404 Not Found Error. Specifically, when the Web data or page is accessed by an address or URL, a 404 error is returned to let the consumer knwon if the target does not exist. It would be disastrous if the target didn't exist and the Web returned what the system thought was an approximate page or data without telling it. This situation doesn't happen thanks to 404 Not Found Error, however, it does happen in the semantic-level query.
 
@@ -84,7 +84,7 @@ For example, if we deploy a dog classification model on a web page, we want the 
 Based on the above examples, we outline our conception of unknown semantic detection. To illustrate that an unknown semantics is one that is beyond the scope of a predefined semantics, we call it semantic overflow detection, which is to detect the access that is not included by the system preset at the semantic level.
 
 
-# 6. Definition of semantics
+# 6. Definition of semantics (Q2)
 
 ## 6.1 Definition
 
@@ -105,11 +105,11 @@ In general, semantics focuses more on the semantic meaning of data or feature an
 Thank you again for your careful review of the paper and your helpful suggestions. Your feedback has been critical to improving the research and our team has benefited greatly from it. I have carefully considered each of the points you have raised and have amended and clarified in accordance with your suggestions and guidance. These suggestions not only improved the quality of the paper, but also contributed a lot to the in-depth insights of the paper. Thank you again for your time and professional advice. If you have any further suggestions for this paper, please do not hesitate to contact us.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwMDI4MTA2LDE0NjYyMzg1MzUsLTE2Mz
-U4NjQ5NjcsMjgzODQ2Mjk3LDEzNDg1NDg3OTcsMTMyMDU3MTQ3
-LDExNDI5ODM5Nyw4MzIwODM5MTEsMTE2MzU4OTIzMywtNDQyMj
-M5NDQ4LC0xMzM5NDc2OTM5LDIxNDIxNjAxMzcsLTE4MDAxNTMw
-OTEsLTk1OTMwMTY5NCwtMTM5OTM2ODMzNCw0Mzg4NTU3NjksLT
-ExMTY0Njg2NzgsLTMwMzg5NzQ0NCwxNTE2OTIzNjA5LC02NzUz
-ODY0MDRdfQ==
+eyJoaXN0b3J5IjpbLTcyNjU3NjIyNCwxNDY2MjM4NTM1LC0xNj
+M1ODY0OTY3LDI4Mzg0NjI5NywxMzQ4NTQ4Nzk3LDEzMjA1NzE0
+NywxMTQyOTgzOTcsODMyMDgzOTExLDExNjM1ODkyMzMsLTQ0Mj
+IzOTQ0OCwtMTMzOTQ3NjkzOSwyMTQyMTYwMTM3LC0xODAwMTUz
+MDkxLC05NTkzMDE2OTQsLTEzOTkzNjgzMzQsNDM4ODU1NzY5LC
+0xMTE2NDY4Njc4LC0zMDM4OTc0NDQsMTUxNjkyMzYwOSwtNjc1
+Mzg2NDA0XX0=
 -->
