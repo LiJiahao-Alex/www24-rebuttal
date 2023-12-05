@@ -16,7 +16,9 @@ When a question mark appears on the blue tag, it means that there is no label in
 The OSR data is all marked with question marks tag, which means that all label information is removed from the data. At this time, this case does not belong to the research scope of OSR, because OSR is supervised learning, which requires data-label pairs. At the same time, it does not belong to SOD. For large amounts of unsupervised data, there are multiple tasks such as clustering, sorting, compression, etc. Whether this is SOD in the face of large amounts of unsupervised data depends on the specific task.
 
 ## 1.4 Being unlabeled is an assumption that conforms to Web data, and it is not a deliberate ignorance of labels.
-OSR is built with the default that all data is labeled, so the task of OSR is to not only classify knowns but also detect unknowns in the test data. SOD is built  with the default that data is unlabeled, so the task of SOD is to detect the unknown. Note that the latter is not just a result of ignoring labels for . Firstly, SOD has practical scenarios and significance and is more in line with Web data. Secondly, the difficulty of SOD is much higher than OSR because of the lack of label information. In the context of Web, most data are unlabeled, or require very high labeling costs. Here are two examples for better illustration.
+OSR is built with the default that all data is labeled, so the task of OSR is to not only classify knowns but also detect unknowns in the test data. SOD is built  with the default that data is unlabeled, so the task of SOD is to detect the unknown. Note that the latter is not just a result of ignoring labels for the following reasons. 
+- Firstly, SOD has practical scenarios and significance and is more in line with Web data. 
+- Secondly, the difficulty of SOD is much higher than OSR because of the lack of label information. In the context of Web, most data are unlabeled, or require very high labeling costs. Here are two examples for better illustration.
 
 >**OSR.** For example, a face recognition gate machine that requires face-identity (data-label) pairs at training can be deployed to identify visitors (knowns classification) and identify outsiders (unknowns detection). Its performance on classification and rejection tasks is not surprising given the large number of data-label pairs used.
 
@@ -63,6 +65,6 @@ Semantic and traditional labels are different in the way of formation process, f
 
 - From the perspective of data entities, labels are artificially pre-agreed symbols, and semantics are meaning feature in the data (as Reviewer TEpt said).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYyODg2OTEsLTM3NDMzMjU2LDE0NjM2Mz
-I4NjFdfQ==
+eyJoaXN0b3J5IjpbLTczOTA3NTQ0NCwtMzc0MzMyNTYsMTQ2Mz
+YzMjg2MV19
 -->
