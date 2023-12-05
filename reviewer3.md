@@ -11,9 +11,9 @@ We are sorry that the statement in Section 2 (lines 243-254) may have cause read
 In simple terms, although SOD and OCC both detect unknown semantics in the open set, OCC explicitly requires the known semantics to be single semantics. This limiation makes OCC methods ineffective when dealing with unlabeled multi-semantic data.
 
 # 2.Overgeneralization problem
-We formulate the statement of the overgeneralization problem mathematically in Chapter V (357-382 lines) Eq(2-3).
+We formulate the statement of the overgeneralization problem mathematically in Chapter V (357-382 lines) Eq(2-3). In simple terms, the overgeneralization problem can be understood as that in the unlabeled multi-semantic data environment, the autoencoder loses the ability to learn semantic information. Instead, it learns low-level features and only performs data reconstruction similar to the identity function, unable to capture the high-level semantic information of the data.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzk4OTE2LC0yMTI0MTI0NTQwLDcxMD
-E3OTY5NCwtMTI1NzMyMjg5Myw0NzI0NzAzMDMsLTEwOTg4MDIw
-MV19
+eyJoaXN0b3J5IjpbLTM0MTM3NTA5MiwtMTkzOTg5MTYsLTIxMj
+QxMjQ1NDAsNzEwMTc5Njk0LC0xMjU3MzIyODkzLDQ3MjQ3MDMw
+MywtMTA5ODgwMjAxXX0=
 -->
