@@ -13,10 +13,7 @@ In simple terms, although SOD and OCC both detect unknown semantics in the open 
 # 2.Overgeneralization problem
 We formulate the statement of the overgeneralization problem mathematically in Chapter V (357-382 lines) Eq(2-3). In simple terms, the overgeneralization problem can be understood as that in the unlabeled multi-semantic data environment, the autoencoder loses the ability to learn semantic information. Instead, it learns low-level features and only performs data reconstruction similar to the identity function, unable to capture the high-level semantic information of the data in the latent space.
 
-# 3.Rest-vs-one
-
-## Label-free, multi-semantic, exclusiveness, semanticity, compatibility, and rarity.
-
+# 3.Rest-vs-one and
 The definition of RvO is given in Section IV, Eq1. The notation here is the same as in Section III. We illustrate the correspondence of RvO with respect to six characteristics below.
 
 - **Label-free.** $\forall{(X,\widetilde{X})}\in{RvO(\mathcal{X})}, Y=\emptyset$ where $Y$ represents the set of labels of the data $X$.
@@ -26,11 +23,33 @@ The definition of RvO is given in Section IV, Eq1. The notation here is the same
 - **Compatibility.**$Y_X\subseteq{Y_{\widetilde{X}}}$
 - **Rarity.**$\forall{(X,\widetilde{X})}\in{RvO(\mathcal{X})},\rho\approx\frac{1}{K}$ where $\rho$ is the anomaly ratio.
 
-# 4.Rest-vs-one
+# 4.Evaluation method
+Thank you very much for your constructive suggestions, which made us realize that adding some context would better explain the reasons for the selection of evaluation metrics. Limited by the number of pages in the paper, we explain in (349-352 lines) why AUROC is not sufficient for comprehensive evaluation and give the other two evaluation criteria AUPRC and F1 score. We cited reference [24] to help us explain the specific reason, and your comments made us realize that this reduces the smoothness of reading experience. We make the following augmented description of the choice of evaluation.
 
-Rest-vs-one (RvO) protocol is explained and discussed in Section IV (321-342 lines). The introduction of RvO involves the definition of the SOD problem in Section III, the shortcomings of the OSR evaluation method in Section II, and the six characteristics of the SOD problem in Section I.
+## 4.1 Why is AUROC not enough to evaluate?
+**AUROC ignores data imbalance.** The AUROC is calculated using the area under the ROC curve, which is plotted from the True Positive Rate (TPR) and False Positive Rate (FPR) at different thresholds. 
+$$TPR = \frac{TP}{TP+FN}$$
+$$FPR = \frac{FP}{FP+TN}$$
+The whole focus of TPR and FPR is **the prediction ability of positive samples**, that is, the correct TPR of positive samples is predicted and the confusion of positive samples caused by the wrong prediction of negative samples. When the sample is **imbalanced**, FPR will be a bad indicator because **the amount of TN is large, the effect of FP becomes small, and FPR changes very little**.
+
+## 4.2 Why AUPRC?
+For above situation, precision will be a better indicator, **the impact of FP will be highlighted**, and TP is much smaller than TN.
+$$precision = \frac{TP}{TP+FP} $$
+$$recall = \frac{TP}{TP+FN} $$
+For the case of imbalanced data distribution, TP<<TN, precision can more highlight the impact of FP.  A companion to precision is recall, which measures how many of the positive examples in the sample are predicted correctly (find all) the fraction of all positive examples that are correctly predicted. Therefore an additional evaluation AUPRC, which is the area under the precision-recall curve, is added.
+
+## 4.3 Why F1-Score?
+
+Precision and recall are a pair of contradictory measures. Recall tends to be low when precision is high, while precision tends to be low when recall is high. F1-score is a metric that takes into account both precision and recall, that is, the harmonic mean of precision and recall. 
+
+$$F1=2*\frac{precision*recall }{precision + recall}$$
+
+F1 is equivalent to the comprehensive evaluation metric of precision and recall. Therefore, the best F1 score can more comprehensively evaluate the performance level of the model in the best case.
+
+We are very sorry for not introduce the above content in order to accommodate the page limit of the paper. We immediately supplemented the paper according to your suggestions and guidance.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2OTAzNTYwLDgwOTI2Mzc3NywtODI2MT
+eyJoaXN0b3J5IjpbMjU4NjI0NTYzLDgwOTI2Mzc3NywtODI2MT
 I4MzQxLC0xOTM5ODkxNiwtMjEyNDEyNDU0MCw3MTAxNzk2OTQs
 LTEyNTczMjI4OTMsNDcyNDcwMzAzLC0xMDk4ODAyMDFdfQ==
 -->
