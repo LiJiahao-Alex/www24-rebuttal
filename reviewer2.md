@@ -34,9 +34,10 @@ It can be seen that SOD is a more complex scenario in line with unlabeled web da
 
 ## 2.1 Seemingly similar results
 	
-| VAE | 85.12±0.42 |
-|-----|--|
-| Ours | 88.45±0.71 |
+|      | MNIST      | Fashion     | Kuzushiji   |
+|------|------------|-------------|-------------|
+| VAE  | 85.12±0.42 | 70.61±0.24  |  72.57±0.29 |
+| Ours | 88.45±0.71 |  71.22±0.46 | 76.44±0.76  |
 
 
 # 3. Data format
@@ -73,6 +74,6 @@ Semantic and traditional labels are different in the way of formation process, f
 
 - From the perspective of data entities, labels are artificially pre-agreed symbols, and semantics are meaning feature in the data (as Reviewer TEpt said).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMTM4MTMzNSwtMTE1OTkzOTA2OCwxOT
+eyJoaXN0b3J5IjpbLTczMDQxNzkzOSwtMTE1OTkzOTA2OCwxOT
 c2Njg1NDY4LC0zNzQzMzI1NiwxNDYzNjMyODYxXX0=
 -->
