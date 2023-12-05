@@ -46,7 +46,7 @@ We are sorry that we did not clearly explain the comparison between VAE and our 
 |------|------------|-------------|-------------|
 | VAE  | 70.61±0.24 | 22.90±0.32  |  31.97±0.25 |
 | Ours | 71.22±0.46 |  24.21±0.37 | 33.36±0.40  |
-| Ours+ | 74.61±0.39 |  25.84±0.34 | s  |
+| Ours+ | 74.61±0.39 |  26.24±0.33 | 34.9  |
 Tabel 1-Ours vs VAE on Fashion
 
 Due to the limitation of the rebuttal time window, we did not use as many alternative hyperparameters as VAE and used Bayesian search instead of grid search to speed up the experiment. Even in this case, we get a good result that shows that our method outperforms the VAE, even when considering the variance.
@@ -85,7 +85,7 @@ Semantic and traditional labels are different in the way of formation process, f
 
 - From the perspective of data entities, labels are artificially pre-agreed symbols, and semantics are meaning feature in the data (as Reviewer TEpt said).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjgyODMxNzYsLTExMTY0Njg2NzgsLT
+eyJoaXN0b3J5IjpbLTEyMjE4MDk3NjUsLTExMTY0Njg2NzgsLT
 MwMzg5NzQ0NCwxNTE2OTIzNjA5LC02NzUzODY0MDQsMTA1MTI4
 MjEwNCwtMTE1OTkzOTA2OCwxOTc2Njg1NDY4LC0zNzQzMzI1Ni
 wxNDYzNjMyODYxXX0=
