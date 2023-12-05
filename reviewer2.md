@@ -33,7 +33,7 @@ It can be seen that SOD is a more complex scenario in line with unlabeled web da
 # 2. VAE v.s Ours
 
 ## 2.1 Seemingly similar results
-
+	
 
 # 3. Data format
 
@@ -69,6 +69,6 @@ Semantic and traditional labels are different in the way of formation process, f
 
 - From the perspective of data entities, labels are artificially pre-agreed symbols, and semantics are meaning feature in the data (as Reviewer TEpt said).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NjY4NTQ2OCwtMzc0MzMyNTYsMTQ2Mz
-YzMjg2MV19
+eyJoaXN0b3J5IjpbLTExNTk5MzkwNjgsMTk3NjY4NTQ2OCwtMz
+c0MzMyNTYsMTQ2MzYzMjg2MV19
 -->
