@@ -64,14 +64,14 @@ We would like to make the following clarification.
 
 In summary, the message we want to convey to the reader is that during training, evaluation cannot be performed. 
 
-# 6.We do not try to "find the best model design"
+# 6.We do not try to "find the best model design" (Q1)
 The reading of last paragraph of Section 5 **should be followed up with Section 6 (387-393 lines)**. The logic we like to state is that while finding the best model design is the key to solving the overgeneralization problem, it requires evaluation feedback during trainig. As mentioned in ``5. "No test set for anomalies"?``, evaluation cannot be performed during training, so the "find the best model design" scheme is not feasible. Ideally, the search for the best model design uses performance evaluation as a guide:
 
 ``Model A --> Evaluation of A --> Model modification -->
 Model B --> Evaluation of B --> Model modification -->
 Model C --> Evaluation of C --> Model modification --> ··· ··· ---> the best model design``
  
-This is the ideal situation, but during actual training, evaluation cannot be implemented dur to inaccessible of test se. Since the search for the best model design (Plan A), does not work without a test set, we turn to an alternative (Plan B). We use Table 1 to clarify the misunderstanding.
+This is the ideal situation, but during actual training, evaluation cannot be implemented dur to inaccessible of test set. Since the search for the best model design (Plan A) does not work, we turn to an alternative (Plan B). We use Table 1 to clarify the misunderstanding.
 
 |  | Plan A | Plan B |
 |--|--|--|
@@ -80,8 +80,8 @@ This is the ideal situation, but during actual training, evaluation cannot be im
 |Advantage|/|Do not need test set evaluation feedback during training|
 Table 1-Different ways to address overgeneralization problem.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjgwNzA0NTUsODg1MDkwMzY0LC0xMj
-A0MTI4ODg2LC0yNDUwMzk4MzAsODA5MjYzNzc3LC04MjYxMjgz
-NDEsLTE5Mzk4OTE2LC0yMTI0MTI0NTQwLDcxMDE3OTY5NCwtMT
-I1NzMyMjg5Myw0NzI0NzAzMDMsLTEwOTg4MDIwMV19
+eyJoaXN0b3J5IjpbLTM0NTc2Mzk5MSw4ODUwOTAzNjQsLTEyMD
+QxMjg4ODYsLTI0NTAzOTgzMCw4MDkyNjM3NzcsLTgyNjEyODM0
+MSwtMTkzOTg5MTYsLTIxMjQxMjQ1NDAsNzEwMTc5Njk0LC0xMj
+U3MzIyODkzLDQ3MjQ3MDMwMywtMTA5ODgwMjAxXX0=
 -->
