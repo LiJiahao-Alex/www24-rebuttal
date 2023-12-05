@@ -55,10 +55,10 @@ We are very sorry that we may have caused misunderstanding. We have not conveyed
 - For example, the training set is images of handwritten digits with nine semantics from 0 to 8, and the test set is images of handwritten digits with ten semantics from 0 to 9. At this point, the training set does not contain the unknown semantics 9 (anomalies).
 
 # 6.Find the best model design
-"The last paragraph of Section 5 indicates that the key is finding the best model design to solve the overgeneralization problem." The reading of last paragraph of Section 5 **should be followed up with Section 6 (387-393 lines)**.
+"The last paragraph of Section 5 indicates that the key is finding the best model design to solve the overgeneralization problem." The reading of last paragraph of Section 5 **should be followed up with Section 6 (387-393 lines)**. The logic we like to state is that while finding the best model design is the key to solving the overgeneralization problem, it is not the only key.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwNTM4ODE3LC0xMjA0MTI4ODg2LC0yND
-UwMzk4MzAsODA5MjYzNzc3LC04MjYxMjgzNDEsLTE5Mzk4OTE2
-LC0yMTI0MTI0NTQwLDcxMDE3OTY5NCwtMTI1NzMyMjg5Myw0Nz
-I0NzAzMDMsLTEwOTg4MDIwMV19
+eyJoaXN0b3J5IjpbMTM1ODQ0NzAyOSwtMTIwNDEyODg4NiwtMj
+Q1MDM5ODMwLDgwOTI2Mzc3NywtODI2MTI4MzQxLC0xOTM5ODkx
+NiwtMjEyNDEyNDU0MCw3MTAxNzk2OTQsLTEyNTczMjI4OTMsND
+cyNDcwMzAzLC0xMDk4ODAyMDFdfQ==
 -->
