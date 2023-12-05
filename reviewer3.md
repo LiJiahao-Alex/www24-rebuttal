@@ -83,11 +83,11 @@ Table 1-Different ways to address overgeneralization problem.
 Therefore, we perform the Plan B route and propose the memory module, which does not require continuous evaluation feedback to obtain good performance.
 
 # 7.Model design (Q2)
-
+Model design (Plan A) is a tricky thing, it needs to take into account the characteristics of the dataset. This is exactly why we choose Plan B instead of Plan A.  Plan B is a more general method.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NDIxNDgwNiwtMzQ1NzYzOTkxLDg4NT
-A5MDM2NCwtMTIwNDEyODg4NiwtMjQ1MDM5ODMwLDgwOTI2Mzc3
-NywtODI2MTI4MzQxLC0xOTM5ODkxNiwtMjEyNDEyNDU0MCw3MT
-AxNzk2OTQsLTEyNTczMjI4OTMsNDcyNDcwMzAzLC0xMDk4ODAy
-MDFdfQ==
+eyJoaXN0b3J5IjpbLTExNDI2MDYxODQsLTM0NTc2Mzk5MSw4OD
+UwOTAzNjQsLTEyMDQxMjg4ODYsLTI0NTAzOTgzMCw4MDkyNjM3
+NzcsLTgyNjEyODM0MSwtMTkzOTg5MTYsLTIxMjQxMjQ1NDAsNz
+EwMTc5Njk0LC0xMjU3MzIyODkzLDQ3MjQ3MDMwMywtMTA5ODgw
+MjAxXX0=
 -->
