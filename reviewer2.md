@@ -68,7 +68,7 @@ Finally, we sincerely thank you for your guidance. We will make further revision
 Table 6 in the appendix is explained in Section 7.2 of the paper (519-521 lines) and Appendix A (1047-1050 lines). Since the three datasets have different labels, we use the numbers 0-9 as a uniform label in order to simplify the table design. The purpose of Table 6 is to illustrate the correspondence between the numbers 0-9 and the true labels.
 
 ## 4.2 Table-7,8,9
-
+$\operatorname{RvO}(\mathcal{X})=\left\{\left(X_i, \widetilde{X}_i\right) \mid \widetilde{X}_i=\mathcal{X} \backslash X_i, \widetilde{k}-k=1, i=1,2, \cdots, K\right\}$
 
 # 5. Why called semantic overflow detection?
 
@@ -97,10 +97,10 @@ Semantic and traditional labels are different in the way of formation process, f
 
 In general, semantics focuses more on the semantic meaning of data or feature and helps computers understand the nature of data, while the traditional  labels focus more on the goal of model training and prediction.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjcxMDAwMjEsMTE2MzU4OTIzMywtND
-QyMjM5NDQ4LC0xMzM5NDc2OTM5LDIxNDIxNjAxMzcsLTE4MDAx
-NTMwOTEsLTk1OTMwMTY5NCwtMTM5OTM2ODMzNCw0Mzg4NTU3Nj
-ksLTExMTY0Njg2NzgsLTMwMzg5NzQ0NCwxNTE2OTIzNjA5LC02
-NzUzODY0MDQsMTA1MTI4MjEwNCwtMTE1OTkzOTA2OCwxOTc2Nj
-g1NDY4LC0zNzQzMzI1NiwxNDYzNjMyODYxXX0=
+eyJoaXN0b3J5IjpbOTQ3MjQxNzkyLDExNjM1ODkyMzMsLTQ0Mj
+IzOTQ0OCwtMTMzOTQ3NjkzOSwyMTQyMTYwMTM3LC0xODAwMTUz
+MDkxLC05NTkzMDE2OTQsLTEzOTkzNjgzMzQsNDM4ODU1NzY5LC
+0xMTE2NDY4Njc4LC0zMDM4OTc0NDQsMTUxNjkyMzYwOSwtNjc1
+Mzg2NDA0LDEwNTEyODIxMDQsLTExNTk5MzkwNjgsMTk3NjY4NT
+Q2OCwtMzc0MzMyNTYsMTQ2MzYzMjg2MV19
 -->
