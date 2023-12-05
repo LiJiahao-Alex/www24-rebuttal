@@ -72,7 +72,7 @@ Table 6 in the appendix is explained in Section 7.2 of the paper (519-521 lines)
 Tables 7-9 show the experimental results performed according to Eq.1 in Section 4 of the paper (321-338 lines).  The three tables show the AUROC, AUPRC, and best F1 score evaluation results in turn. Table 2 in the paper is the mean from Table 7-9 as described in Section 7.2 (541-547 lines ) and Appendix B (1052-1105 lines ). Our method outperforms the comparison methods in most of the molecular experiments. We'll add bar charts to get a better sense of how all the algorithms compare. SAE achieves a certain performance improvement compared to AE, which means that weighted sparse regularization is helpful for semantic learning. DAE also has a certain improvement compared with AE, which indicates that the noise addition and denoising processing of data can help the learning of semantic information. VAE achieves the second best result overall, which reflects that modeling the latent space is beneficial for learning semantics. MemAE achieves the third best overall performance, which verifies the previous point, but also illustrates that a reasonable latent space model design is required for semantic learning to achieve good results. MNAD uses an offline latent space model design, and its performance is not as good as other online methods, which indicates that the end-to-end design may be more helpful for learning semantics. SSPCAP did not achieve compelling performance gains as an operator design, validating the previous idea that latent space design is more helpful for learning semantics. exVAE is another representative of offline learning in the latent space, and it does not achieve much performance gain like MNAD. With the help of the above experiments, the idea and guidance are provided for the final proposal of our method.
 
 ## 4.3 Table-10,11
-Tables 10,11 show ablation experiments on MNIST dataset for external and internal retrieval, respectively. They performed according to Eq.1 in Section 4 of the paper (321-338 lines).  Tables 10 and 11 are introduced in Section 7.3 (818-820 lines ) and Appendix C (1106-1103 lines ). We examined the effect of different retrieval techniques on semantic learning under different retrieval modalities. Overall, external retrieval is always better than internal retrieval.
+Tables 10,11 show ablation experiments on MNIST dataset for external and internal retrieval, respectively. They performed according to Eq.1 in Section 4 of the paper (321-338 lines).  Tables 10 and 11 are introduced in Section 7.3 (818-820 lines ) and Appendix C (1106-1103 lines ). We examined the effect of different retrieval techniques on semantic learning under different retrieval modalities. Overall, external retrieval is always better than internal retrieval. From the prespecti  retrieval trick level, using no skill is the best performance for the external retrieval method. However, for self-retrieval, it is optimal to not use softmax and just keep other retrieval tricks. This indicates that the self-retrieval mechanism internally relies on a certain combination of retrieval skills to achieve higher performance, while external retrieval does not.
 
 We are committed to fully covering the analyses in these appendices in the final version of the paper to ensure that readers can have a clear and comprehensive understanding of all aspects of the study.
 # 5. Why called semantic overflow detection?
@@ -102,11 +102,11 @@ Semantic and traditional labels are different in the way of formation process, f
 
 In general, semantics focuses more on the semantic meaning of data or feature and helps computers understand the nature of data, while the traditional  labels focus more on the goal of model training and prediction.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTM5OTM5MSwyODM4NDYyOTcsMTM0OD
-U0ODc5NywxMzIwNTcxNDcsMTE0Mjk4Mzk3LDgzMjA4MzkxMSwx
-MTYzNTg5MjMzLC00NDIyMzk0NDgsLTEzMzk0NzY5MzksMjE0Mj
-E2MDEzNywtMTgwMDE1MzA5MSwtOTU5MzAxNjk0LC0xMzk5MzY4
-MzM0LDQzODg1NTc2OSwtMTExNjQ2ODY3OCwtMzAzODk3NDQ0LD
-E1MTY5MjM2MDksLTY3NTM4NjQwNCwxMDUxMjgyMTA0LC0xMTU5
-OTM5MDY4XX0=
+eyJoaXN0b3J5IjpbLTEzNzIwMDAyMzQsMjgzODQ2Mjk3LDEzND
+g1NDg3OTcsMTMyMDU3MTQ3LDExNDI5ODM5Nyw4MzIwODM5MTEs
+MTE2MzU4OTIzMywtNDQyMjM5NDQ4LC0xMzM5NDc2OTM5LDIxND
+IxNjAxMzcsLTE4MDAxNTMwOTEsLTk1OTMwMTY5NCwtMTM5OTM2
+ODMzNCw0Mzg4NTU3NjksLTExMTY0Njg2NzgsLTMwMzg5NzQ0NC
+wxNTE2OTIzNjA5LC02NzUzODY0MDQsMTA1MTI4MjEwNCwtMTE1
+OTkzOTA2OF19
 -->
