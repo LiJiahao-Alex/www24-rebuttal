@@ -14,9 +14,9 @@ In simple terms, although SOD and OCC both detect unknown semantics in the open 
 We formulate the statement of the overgeneralization problem mathematically in Chapter V (357-382 lines) Eq(2-3). In simple terms, the overgeneralization problem can be understood as that in the unlabeled multi-semantic data environment, the autoencoder loses the ability to learn semantic information. Instead, it learns low-level features and only performs data reconstruction similar to the identity function, unable to capture the high-level semantic information of the data in the latent space.
 
 # 3.Rest-vs-one
-RvO
+Rest-vs-one (RvO) protocol is explained and discussed in Section IV (321-342 lines).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NjI2MjA1MCwtMTkzOTg5MTYsLTIxMj
+eyJoaXN0b3J5IjpbLTgyNjEyODM0MSwtMTkzOTg5MTYsLTIxMj
 QxMjQ1NDAsNzEwMTc5Njk0LC0xMjU3MzIyODkzLDQ3MjQ3MDMw
 MywtMTA5ODgwMjAxXX0=
 -->
