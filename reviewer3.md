@@ -67,14 +67,14 @@ In summary, the message we want to convey to the reader is that during training,
 # 6.We do not try to "find the best model design"
 "The last paragraph of Section 5 indicates that the key is finding the best model design to solve the overgeneralization problem." The reading of last paragraph of Section 5 **should be followed up with Section 6 (387-393 lines)**. The logic we like to state is that while finding the best model design is the key to solving the overgeneralization problem, it is not the only key. Since the search for the best model design (key A), does not work without a test set, we turn to an alternative (key B). We use Table 1 to clarify the misunderstanding.
 
-|  | key A (Section5) | key B (Section6) |
+|  | key A | key B |
 |--|--|--|
 | Method | Find the best model design. | Introduce a generalization suppressor. |
-|Limition| no test set evaluation feedback during training ||
+|Limitation| no test set evaluation feedback during training ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MTg2OTU1OCw4ODUwOTAzNjQsLTEyMD
-QxMjg4ODYsLTI0NTAzOTgzMCw4MDkyNjM3NzcsLTgyNjEyODM0
-MSwtMTkzOTg5MTYsLTIxMjQxMjQ1NDAsNzEwMTc5Njk0LC0xMj
-U3MzIyODkzLDQ3MjQ3MDMwMywtMTA5ODgwMjAxXX0=
+eyJoaXN0b3J5IjpbLTUxMjQyNTE0LDg4NTA5MDM2NCwtMTIwND
+EyODg4NiwtMjQ1MDM5ODMwLDgwOTI2Mzc3NywtODI2MTI4MzQx
+LC0xOTM5ODkxNiwtMjEyNDEyNDU0MCw3MTAxNzk2OTQsLTEyNT
+czMjI4OTMsNDcyNDcwMzAzLC0xMDk4ODAyMDFdfQ==
 -->
