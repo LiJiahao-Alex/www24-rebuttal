@@ -84,10 +84,17 @@ Therefore, we perform the Plan B route and propose the memory module, which does
 
 # 7.Model design (Q2)
 Model design (Plan A) is a tricky thing, it needs to take into account the characteristics of the dataset. This is exactly why we choose Plan B instead of Plan A.  Plan B is a more general method.
+
+```
+-   ```
+    Once again please allow us to thank you for your comment. We cherish every suggestion to make the paper better, and we will spare no effort to perfect it according to your requirements. Hope our reply dispels your concerns, if you still have concerns please don't hesitate to let us know.
+    
+    ```
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDI2MDYxODQsLTM0NTc2Mzk5MSw4OD
-UwOTAzNjQsLTEyMDQxMjg4ODYsLTI0NTAzOTgzMCw4MDkyNjM3
-NzcsLTgyNjEyODM0MSwtMTkzOTg5MTYsLTIxMjQxMjQ1NDAsNz
-EwMTc5Njk0LC0xMjU3MzIyODkzLDQ3MjQ3MDMwMywtMTA5ODgw
-MjAxXX0=
+eyJoaXN0b3J5IjpbMTkxMTA1NjA0LC0xMTQyNjA2MTg0LC0zND
+U3NjM5OTEsODg1MDkwMzY0LC0xMjA0MTI4ODg2LC0yNDUwMzk4
+MzAsODA5MjYzNzc3LC04MjYxMjgzNDEsLTE5Mzk4OTE2LC0yMT
+I0MTI0NTQwLDcxMDE3OTY5NCwtMTI1NzMyMjg5Myw0NzI0NzAz
+MDMsLTEwOTg4MDIwMV19
 -->
