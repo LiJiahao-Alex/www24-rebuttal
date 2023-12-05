@@ -51,7 +51,7 @@ Tabel 1-Ours perfomance on Fashion without no-tuning policy
 Due to the limitation of the rebuttal time window, we did not use as many alternative hyperparameters as VAE and used Bayesian search instead of grid search to speed up the experiment. Even in this case, we get a good result that shows that our method outperforms the VAE, even when considering the variance.
 
 # 3. Data format
-I understand your concern about the field of Semantic Web and Knowledge Management, and I would like to explain my research design in the following ways:
+I understand your concern about the field of Semantic Web and Knowledge Management, and I would like to explain our research design in the following ways:
 
 
 
@@ -85,8 +85,8 @@ Semantic and traditional labels are different in the way of formation process, f
 
 - From the perspective of data entities, labels are artificially pre-agreed symbols, and semantics are meaning feature in the data (as Reviewer TEpt said).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTkzNjgzMzQsNDM4ODU1NzY5LC0xMT
-E2NDY4Njc4LC0zMDM4OTc0NDQsMTUxNjkyMzYwOSwtNjc1Mzg2
-NDA0LDEwNTEyODIxMDQsLTExNTk5MzkwNjgsMTk3NjY4NTQ2OC
-wtMzc0MzMyNTYsMTQ2MzYzMjg2MV19
+eyJoaXN0b3J5IjpbNjc2NDM2OTcyLC0xMzk5MzY4MzM0LDQzOD
+g1NTc2OSwtMTExNjQ2ODY3OCwtMzAzODk3NDQ0LDE1MTY5MjM2
+MDksLTY3NTM4NjQwNCwxMDUxMjgyMTA0LC0xMTU5OTM5MDY4LD
+E5NzY2ODU0NjgsLTM3NDMzMjU2LDE0NjM2MzI4NjFdfQ==
 -->
