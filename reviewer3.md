@@ -22,16 +22,15 @@ The definition of RvO is given in Section IV, Eq1. The notation here is the same
 - Label-free. $\forall{(X,\widetilde{X})}\in{RvO(\mathcal{X})}, Y_X=\emptyset$ when training.
 - Multi-semantic. $\because{\widetilde{k}-k=1,\widetilde{k}=K}, \therefore{k=K-1>1}$
 - Exclusiveness. $\forall{(X,\widetilde{X})}\in{RvO(\mathcal{X})},X\cap{\widetilde{X}}=\emptyset$
-- Semanticity.
+- Semanticity. $\forall\left(x_i, y_a\right),\left(x_j, y_b\right) \in$ $Y_X, y_a \neq y_b, x_i \nsim \mathcal{N}\left(\mu_{y_b}, \sigma_{y_b}^2\right), x_j \nsim \mathcal{N}\left(\mu_{y_a}, \sigma_{y_a}^2\right)$
 - Compatibility.$Y_X\subseteq{Y_{\widetilde{X}}}$
-- 
-Rarity.$\forall{(X,\widetilde{X})}\in{RvO(\mathcal{X})},\rho\approx\frac{1}{K}$
+- Rarity.$\forall{(X,\widetilde{X})}\in{RvO(\mathcal{X})},\rho\approx\frac{1}{K}$
 
 ## 3.2
 
 Rest-vs-one (RvO) protocol is explained and discussed in Section IV (321-342 lines). The introduction of RvO involves the definition of the SOD problem in Section III, the shortcomings of the OSR evaluation method in Section II, and the six characteristics of the SOD problem in Section I.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MTQ5MTQ5OCwtODI2MTI4MzQxLC0xOT
-M5ODkxNiwtMjEyNDEyNDU0MCw3MTAxNzk2OTQsLTEyNTczMjI4
-OTMsNDcyNDcwMzAzLC0xMDk4ODAyMDFdfQ==
+eyJoaXN0b3J5IjpbODA5MjYzNzc3LC04MjYxMjgzNDEsLTE5Mz
+k4OTE2LC0yMTI0MTI0NTQwLDcxMDE3OTY5NCwtMTI1NzMyMjg5
+Myw0NzI0NzAzMDMsLTEwOTg4MDIwMV19
 -->
