@@ -22,15 +22,15 @@ The definition of RvO is given in Section IV, Eq1. The notation here is the same
 - Label-free. $\forall{(X,\widetilde{X})}\in{RvO(\mathcal{X})}, Y=\emptyset$ where $Y$ represents the set of labels of the data $X$.
 - Multi-semantic. $\because{\widetilde{k}-k=1,\widetilde{k}=K}, \therefore{k=K-1>1}$
 - Exclusiveness. $\forall{(X,\widetilde{X})}\in{RvO(\mathcal{X})},X\cap{\widetilde{X}}=\emptyset$
-- Semanticity. $\forall\left(x_i, y_a\right),\left(x_j, y_b\right) \in$ $Y_X, y_a \neq y_b, x_i \nsim \mathcal{N}\left(\mu_{y_b}, \sigma_{y_b}^2\right), x_j \nsim \mathcal{N}\left(\mu_{y_a}, \sigma_{y_a}^2\right)$
+- **Semanticity.** $\forall\left(x_i, y_a\right),\left(x_j, y_b\right) \in$ $Y_X, y_a \neq y_b, x_i \nsim \mathcal{N}\left(\mu_{y_b}, \sigma_{y_b}^2\right), x_j \nsim \mathcal{N}\left(\mu_{y_a}, \sigma_{y_a}^2\right)$
 - Compatibility.$Y_X\subseteq{Y_{\widetilde{X}}}$
-- Rarity.$\forall{(X,\widetilde{X})}\in{RvO(\mathcal{X})},\rho\approx\frac{1}{K}$
+- Rarity.$\forall{(X,\widetilde{X})}\in{RvO(\mathcal{X})},\rho\approx\frac{1}{K}$ where $\rho$ is the anomaly ratio.
 
 ## 3.2
 
 Rest-vs-one (RvO) protocol is explained and discussed in Section IV (321-342 lines). The introduction of RvO involves the definition of the SOD problem in Section III, the shortcomings of the OSR evaluation method in Section II, and the six characteristics of the SOD problem in Section I.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NjA0MzU2NCw4MDkyNjM3NzcsLTgyNj
+eyJoaXN0b3J5IjpbLTk3MjYyMjY0MSw4MDkyNjM3NzcsLTgyNj
 EyODM0MSwtMTkzOTg5MTYsLTIxMjQxMjQ1NDAsNzEwMTc5Njk0
 LC0xMjU3MzIyODkzLDQ3MjQ3MDMwMywtMTA5ODgwMjAxXX0=
 -->
