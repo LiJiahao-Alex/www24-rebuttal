@@ -56,7 +56,7 @@ We would like to make the following clarification.
 
 - $\forall{(X,\widetilde{X})}\in{RvO(\mathcal{X})}$ The training set $X$ is all known semantics, and the test set $\widetilde{X}$ contains both known semantics and unknown semantics (anomalies).
 - For example, the training set is images of handwritten digits with nine semantics from 0 to 8, and the test set is images of handwritten digits with ten semantics from 0 to 9. At this point, the training set does not contain the unknown semantics 9 (anomalies).
-- The training set only has data without labels. In the test set, 0-8 are all labeled as known(anomalies), and 9 is labeled as unknown(anomalies), for a total of two labels.
+- The training set only has data without labels. In the test set, 0-8 are all labeled as known(normal), and 9 is labeled as unknown(anomalies).
 - In the training phase, the training set is available and the test set is not.
 - In the testing phase, the training set is not available and the testing set is available.
 - The three evaluation methods of AUROC, AUPRC and F1 score only can be performed on the test set because the test set has known(0-8) and unknown(9) labels.
@@ -75,8 +75,8 @@ and therefore performance evaluation is not available.
 |Disadvantage| no test set evaluation feedback during training ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDk4Mjg1MywtMTIwNDEyODg4NiwtMj
-Q1MDM5ODMwLDgwOTI2Mzc3NywtODI2MTI4MzQxLC0xOTM5ODkx
-NiwtMjEyNDEyNDU0MCw3MTAxNzk2OTQsLTEyNTczMjI4OTMsND
-cyNDcwMzAzLC0xMDk4ODAyMDFdfQ==
+eyJoaXN0b3J5IjpbNDM0MDMzOTIzLC0xMjA0MTI4ODg2LC0yND
+UwMzk4MzAsODA5MjYzNzc3LC04MjYxMjgzNDEsLTE5Mzk4OTE2
+LC0yMTI0MTI0NTQwLDcxMDE3OTY5NCwtMTI1NzMyMjg5Myw0Nz
+I0NzAzMDMsLTEwOTg4MDIwMV19
 -->
