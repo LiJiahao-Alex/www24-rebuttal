@@ -8,9 +8,9 @@ We are sorry that the statement in Section 2 (lines 243-254) may have cause read
 - **Difference.** $Y_{X_{OCC}}=\{(x, y)|\forall x \in X_{OCC}, y=1\}$, while $$Y_{X_{SOD}}=\{(x, y)|\forall x \in X_{SOD}, y=1,2, \cdots, k, 1<k \leq| X_{SOD} \mid\}$$
 - **Connection.** When $k=1$, the SOD problem degenerates to the OCC problem.
 
-In simple terms, although SOD and OCC both detect unknown semantics in the open set, OCC explicitly requires the known semantics to be single semantics. This property makes OCC methods ineffective when dealing with unlabeled multi-semantic data.
+In simple terms, although SOD and OCC both detect unknown semantics in the open set, OCC explicitly requires the known semantics to be single semantics. This limiation makes OCC methods ineffective when dealing with unlabeled multi-semantic data.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NDI4MTQ4Miw3MTAxNzk2OTQsLTEyNT
-czMjI4OTMsNDcyNDcwMzAzLC0xMDk4ODAyMDFdfQ==
+eyJoaXN0b3J5IjpbLTE1MzM4NjYxNDUsNzEwMTc5Njk0LC0xMj
+U3MzIyODkzLDQ3MjQ3MDMwMywtMTA5ODgwMjAxXX0=
 -->
