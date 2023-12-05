@@ -55,11 +55,11 @@ I understand your concern about the field of semantic web and knowledge manageme
 
 Firstly, the choice of MNIST, FashionMNIST, and Kuzushiji datasets was not solely driven by an interest in image processing per se. Instead, these datasets were selected as a medium for exploring the integration of visual and semantic information to enhance the understanding of relationships between entities within the semantic web and knowledge management environment. Recognizing the unique position of image data in modern information sharing and transmission on the web, our study aims to provide new perspectives, emphasizing the irreplaceability of image data in the semantic web and knowledge management. We believe that such research can provide a new approach to the management of knowledge and the representation of semantic information.
 
-Secondly, our research extends beyond the realm of image data processing. In the long run, we are committed to exploring the possibilities of integrating multi-source information within the semantic web environment. The proposed approch to facilitate the possible fusion of image data with traditional forms of knowledge, creating a more comprehensive semantic representation. In doing so, we seek to enrich the content of knowledge graphs and enhance the adaptability of knowledge management systems to multi-modal information, further highlighting the significance of image data on the web.
+Secondly, our research extends beyond the realm of image data processing. In the long run, we are committed to exploring the possibilities of integrating multi-source information within the semantic web environment. The proposed approch to facilitate the possible fusion of image data with traditional forms of knowledge, creating a more comprehensive semantic representation. In doing so, we seek to enrich the content of knowledge graphs and enhance the adaptability of knowledge management systems to multi-modal information.
 
 We appreciate your valuable commet, which has provided insightful directions for our research. To better address the needs of the semantic web and knowledge management domain, we plan to broaden the scope of datasets in future research, including various forms of data and delving deeper into semantic understanding. We believe this will provide comprehensive and profound support for our study.
 
-Finally, I sincerely thank you for your guidance. We will make further revisions to the paper to align with your suggestions and the expectations of the conference. I look forward to showcasing our unique contributions to the Semantic Web and Knowledge Management domain in the final version.
+Finally, we sincerely thank you for your guidance. We will make further revisions to the paper to align with your suggestions and the expectations of the conference. I look forward to showcasing our unique contributions to the Semantic Web and Knowledge Management domain in the final version.
 
 
 # 4. Appendix analysis
@@ -91,7 +91,7 @@ Semantic and traditional labels are different in the way of formation process, f
 
 - From the perspective of data entities, labels are artificially pre-agreed symbols, and semantics are meaning feature in the data (as Reviewer TEpt said).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzgyMzU0NSwtMTgwMDE1MzA5MSwtOT
+eyJoaXN0b3J5IjpbMTQ0NDgxOTM5NiwtMTgwMDE1MzA5MSwtOT
 U5MzAxNjk0LC0xMzk5MzY4MzM0LDQzODg1NTc2OSwtMTExNjQ2
 ODY3OCwtMzAzODk3NDQ0LDE1MTY5MjM2MDksLTY3NTM4NjQwNC
 wxMDUxMjgyMTA0LC0xMTU5OTM5MDY4LDE5NzY2ODU0NjgsLTM3
