@@ -48,10 +48,10 @@ F1 is equivalent to the comprehensive evaluation metric of precision and recall.
 
 We are very sorry for not introduce the above content in order to accommodate the page limit of the paper. We immediately supplemented the paper according to your suggestions and guidance.
 
-# 5. No test set for anomalies
+# 5. No test set for anomalies?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzMjMxMjczLDgwOTI2Mzc3NywtODI2MT
+eyJoaXN0b3J5IjpbLTUzMDg1NzUyLDgwOTI2Mzc3NywtODI2MT
 I4MzQxLC0xOTM5ODkxNiwtMjEyNDEyNDU0MCw3MTAxNzk2OTQs
 LTEyNTczMjI4OTMsNDcyNDcwMzAzLC0xMDk4ODAyMDFdfQ==
 -->
