@@ -26,9 +26,9 @@ Here are two examples for better illustration.
 
 >**OSR.** For example, a face recognition gate machine that requires face-identity (data-label) pairs at training can be deployed to identify employees (knowns classification) and identify outsiders (unknowns detection). Its performance on classification and rejection tasks is not surprising given the large number of data-label pairs used.
 
->**SOD.** In web data, a large amount of data is available without labels. For example, in the surveillance web system, the police only care about whether the suspect appears (unknowns detection), and do not care about the identity of each person appearing in all the surveillance records (knowns classification).
+>**SOD.** In web data, a large amount of data is available without labels. For example, in the surveillance web system, the police only care about whether the suspect appears (unknowns detection), and do not care about the identity of each person appearing in all the surveillance records (knowns classification). Although labeling everyone can help better capture suspects, it is not feasible in terms of cost.
 
-It can be seen that SOD is a more complex scenario towards unlabeled web data. If it is possible to label everyone in the video surveillance except the suspect (OSR), the difficulty of finding the suspect will be greatly reduced. However, the cost of labeling big data is high. **Therefore, the SOD is not ignoring the label, but unable to access the label.** The SOD is meaningful, and there are specific application scenarios related to web and big data behind it.
+It can be seen that SOD is a more complex scenario towards unlabeled web data. If it is possible to label everyone in the video surveillance except the suspect (OSR case), the difficulty of finding the suspect will be greatly reduced. However, the cost of labeling big data is high. **Therefore, the SOD is not ignoring the label, but unable to access the label.** The SOD is meaningful, and there are specific application scenarios related to web and big data behind it.
 
 # 2. VAE v.s Ours
 
@@ -69,6 +69,6 @@ Semantic and traditional labels are different in the way of formation process, f
 
 - From the perspective of data entities, labels are artificially pre-agreed symbols, and semantics are meaning feature in the data (as Reviewer TEpt said).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTA4MjU1MCwtMzc0MzMyNTYsMTQ2Mz
-YzMjg2MV19
+eyJoaXN0b3J5IjpbLTE0NDM2NTY5NjMsLTM3NDMzMjU2LDE0Nj
+M2MzI4NjFdfQ==
 -->
