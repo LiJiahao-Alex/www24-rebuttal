@@ -10,7 +10,9 @@ We are sorry that the statement in Section 2 (lines 243-254) may have cause read
 
 In simple terms, although SOD and OCC both detect unknown semantics in the open set, OCC explicitly requires the known semantics to be single semantics. This limiation makes OCC methods ineffective when dealing with unlabeled multi-semantic data.
 
+# 2.Overgeneralization problem
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzM4NjYxNDUsNzEwMTc5Njk0LC0xMj
-U3MzIyODkzLDQ3MjQ3MDMwMywtMTA5ODgwMjAxXX0=
+eyJoaXN0b3J5IjpbNzU1NjQ5Mzk1LDcxMDE3OTY5NCwtMTI1Nz
+MyMjg5Myw0NzI0NzAzMDMsLTEwOTg4MDIwMV19
 -->
