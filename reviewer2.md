@@ -63,7 +63,7 @@ Finally, we sincerely thank you for your guidance. We will make further revision
 
 
 # 4. Appendix analysis
-Thank you for your careful review of our paper and your valuable suggestions. We understand your point about the lack of sufficient discussion for the additional analysis of appendix tables in the paper. We realize that the analysis in these appendices is essential for a deeper understanding of the research questions. Additional analysis could provide a more comprehensive interpretation of our findings as well as a close relationship to the main discussion. We discuss the results of these additional analyses in more detail and elaborate on how they interrelate to the main research findings and the implications for the overall research question.
+Thank you for your careful review of our paper and your valuable suggestions. We understand your point about the lack of sufficient discussion for the additional analysis of appendix tables in the paper. We realize that the analysis in these appendices is essential for a deeper understanding of the research questions. Additional analysis could provide a more comprehensive interpretation of our findings as well as a close relationship to the main discussion. We discuss the results of these additional analyses in more detail and elaborate on how they interrelate to the main research findings and the implications for the research.
 
 ## 4.1 Table-6
 Table 6 in the appendix is explained in Section 7.2 of the paper (519-521 lines) and Appendix A (1047-1050 lines). Since the three datasets have different labels, we use the numbers 0-9 as a uniform label in order to simplify the table design. The purpose of Table 6 is to illustrate the correspondence between the numbers 0-9 and the true labels.
@@ -98,11 +98,11 @@ Semantic and traditional labels are different in the way of formation process, f
 
 In general, semantics focuses more on the semantic meaning of data or feature and helps computers understand the nature of data, while the traditional  labels focus more on the goal of model training and prediction.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MTY3NDg4Miw4MzIwODM5MTEsMTE2Mz
-U4OTIzMywtNDQyMjM5NDQ4LC0xMzM5NDc2OTM5LDIxNDIxNjAx
-MzcsLTE4MDAxNTMwOTEsLTk1OTMwMTY5NCwtMTM5OTM2ODMzNC
-w0Mzg4NTU3NjksLTExMTY0Njg2NzgsLTMwMzg5NzQ0NCwxNTE2
-OTIzNjA5LC02NzUzODY0MDQsMTA1MTI4MjEwNCwtMTE1OTkzOT
-A2OCwxOTc2Njg1NDY4LC0zNzQzMzI1NiwxNDYzNjMyODYxXX0=
+eyJoaXN0b3J5IjpbMTE0Mjk4Mzk3LDgzMjA4MzkxMSwxMTYzNT
+g5MjMzLC00NDIyMzk0NDgsLTEzMzk0NzY5MzksMjE0MjE2MDEz
+NywtMTgwMDE1MzA5MSwtOTU5MzAxNjk0LC0xMzk5MzY4MzM0LD
+QzODg1NTc2OSwtMTExNjQ2ODY3OCwtMzAzODk3NDQ0LDE1MTY5
+MjM2MDksLTY3NTM4NjQwNCwxMDUxMjgyMTA0LC0xMTU5OTM5MD
+Y4LDE5NzY2ODU0NjgsLTM3NDMzMjU2LDE0NjM2MzI4NjFdfQ==
 
 -->
