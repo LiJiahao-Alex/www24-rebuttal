@@ -21,7 +21,7 @@ The definition of RvO is given in Section IV, Eq1. The notation here is the same
 - **Exclusiveness.** $\forall{(X,\widetilde{X})}\in{RvO(\mathcal{X})},X\cap{\widetilde{X}}=\emptyset$
 - **Semanticity.** $\forall\left(x_i, y_a\right),\left(x_j, y_b\right) \in$ $Y_X, y_a \neq y_b, x_i \nsim \mathcal{N}\left(\mu_{y_b}, \sigma_{y_b}^2\right), x_j \nsim \mathcal{N}\left(\mu_{y_a}, \sigma_{y_a}^2\right)$
 - **Compatibility.**$Y_X\subseteq{Y_{\widetilde{X}}}$
-- **Rarity.**$\forall{(X,\widetilde{X})}\in{RvO(\mathcal{X})},\rho\approx\frac{1}{K}$ where $\rho$ is the anomaly ratio.
+- **Rarity.**$\forall{(X,\widetilde{X})}\in{RvO(\mathcal{X})},\rho\approx\frac{1}{K}=0.1<0.5$ where $\rho$ is the anomaly ratio.
 
 # 4.Evaluation method
 Thank you very much for your constructive suggestions, which made us realize that adding some context would better explain the reasons for the selection of evaluation metrics. Limited by the number of pages in the paper, we explain in (349-352 lines) why AUROC is not sufficient for comprehensive evaluation and give the other two evaluation criteria AUPRC and F1 score. We cited reference [24] to help us explain the specific reason, and your comments made us realize that this reduces the smoothness of reading experience. We make the following augmented description of the choice of evaluation.
@@ -54,7 +54,8 @@ We are very sorry that our statement may have caused misunderstanding. The messa
 - $\forall{(X,\widetilde{X})}\in{RvO(\mathcal{X})}$ The training set $X$ is all known semantics, and the test set $\widetilde{X}$ contains both known semantics and unknown semantics (anomalies).
 - For example, the training set is images of handwritten digits with nine semantics from 0 to 8, and the test set is images of handwritten digits with ten semantics from 0 to 9. At this point, the training set does not contain the unknown semantics 9 (anomalies).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTAzOTgzMCw4MDkyNjM3NzcsLTgyNj
-EyODM0MSwtMTkzOTg5MTYsLTIxMjQxMjQ1NDAsNzEwMTc5Njk0
-LC0xMjU3MzIyODkzLDQ3MjQ3MDMwMywtMTA5ODgwMjAxXX0=
+eyJoaXN0b3J5IjpbLTU4MzEyODk2NywtMjQ1MDM5ODMwLDgwOT
+I2Mzc3NywtODI2MTI4MzQxLC0xOTM5ODkxNiwtMjEyNDEyNDU0
+MCw3MTAxNzk2OTQsLTEyNTczMjI4OTMsNDcyNDcwMzAzLC0xMD
+k4ODAyMDFdfQ==
 -->
