@@ -27,8 +27,8 @@ The Semantic Web and Knowledge Management are framed within the scope of the Web
 ```
 
 ```
-Thanks again for your comments. We really appreciate the time and effort you put into this review process, and each of your questions and suggestions has been meaningful to us. Hopefully our answers addressed your concerns, don't hesitate to let us know if you have further questions.
+Thanks again for your comments. We really appreciate the time and effort you put into this review process, and each of your questions and suggestions has been meaningful to us. Hopefully our answers addressed your concerns. If you have further questions, don't hesitate to let us know.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzUyMDY3OSwxMTE2MDYwMzI3XX0=
+eyJoaXN0b3J5IjpbNjU2OTAxMTgzLDExMTYwNjAzMjddfQ==
 -->
