@@ -64,7 +64,8 @@ Finally, we sincerely thank you for your guidance. We will make further revision
 
 # 4. Appendix analysis
 
-## 4.1 Seemingly similar results
+## 4.1 Table-6
+
 
 
 # 5. Why called semantic overflow detection?
@@ -94,9 +95,10 @@ Semantic and traditional labels are different in the way of formation process, f
 
 In general, semantics focuses more on the semantic meaning of data or feature and helps computers understand the nature of data, while the traditional  labels focus more on the goal of model training and prediction.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzk0NzY5MzksMjE0MjE2MDEzNywtMT
-gwMDE1MzA5MSwtOTU5MzAxNjk0LC0xMzk5MzY4MzM0LDQzODg1
-NTc2OSwtMTExNjQ2ODY3OCwtMzAzODk3NDQ0LDE1MTY5MjM2MD
-ksLTY3NTM4NjQwNCwxMDUxMjgyMTA0LC0xMTU5OTM5MDY4LDE5
-NzY2ODU0NjgsLTM3NDMzMjU2LDE0NjM2MzI4NjFdfQ==
+eyJoaXN0b3J5IjpbLTQ0MjIzOTQ0OCwtMTMzOTQ3NjkzOSwyMT
+QyMTYwMTM3LC0xODAwMTUzMDkxLC05NTkzMDE2OTQsLTEzOTkz
+NjgzMzQsNDM4ODU1NzY5LC0xMTE2NDY4Njc4LC0zMDM4OTc0ND
+QsMTUxNjkyMzYwOSwtNjc1Mzg2NDA0LDEwNTEyODIxMDQsLTEx
+NTk5MzkwNjgsMTk3NjY4NTQ2OCwtMzc0MzMyNTYsMTQ2MzYzMj
+g2MV19
 -->
