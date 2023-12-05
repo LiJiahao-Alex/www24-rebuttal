@@ -24,7 +24,7 @@ OSR is built with the default that all data is labeled, so the task of OSR is to
 
 Here are two examples for better illustration.
 
->**OSR.** For example, a face recognition gate machine that requires face-identity (data-label) pairs at training can be deployed to identify visitors (knowns classification) and identify outsiders (unknowns detection). Its performance on classification and rejection tasks is not surprising given the large number of data-label pairs used.
+>**OSR.** For example, a face recognition gate machine that requires face-identity (data-label) pairs at training can be deployed to identify employees (knowns classification) and identify outsiders (unknowns detection). Its performance on classification and rejection tasks is not surprising given the large number of data-label pairs used.
 
 >**SOD.** In web data, a large amount of data is available without labels. For example, in the surveillance web system, the police only care about whether the suspect appears (unknowns detection), and do not care about the identity of each person appearing in all the surveillance records (knowns classification).
 
@@ -69,6 +69,6 @@ Semantic and traditional labels are different in the way of formation process, f
 
 - From the perspective of data entities, labels are artificially pre-agreed symbols, and semantics are meaning feature in the data (as Reviewer TEpt said).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc2NzkyMzc2LC0zNzQzMzI1NiwxNDYzNj
-MyODYxXX0=
+eyJoaXN0b3J5IjpbMTg4MTA4MjU1MCwtMzc0MzMyNTYsMTQ2Mz
+YzMjg2MV19
 -->
