@@ -20,7 +20,7 @@ We formulate the statement of the overgeneralization problem mathematically in C
 The definition of RvO is given in Section IV, Eq1. The notation here is the same as in Section III. We illustrate the correspondence of RvO with respect to six characteristics below.
 
 - Label-free. $\forall{(X,\widetilde{X})}\in{RvO(\mathcal{X})}, Y_X=\emptyset$
-- Multi-semantic. $$
+- Multi-semantic. $\because{\widetilde{k}-k=1,\widetilde{k}+k=K}, \therefore{k=K-1>1}$
 - Exclusiveness.
 - Semanticity.
 - Compatibility.
@@ -30,7 +30,7 @@ The definition of RvO is given in Section IV, Eq1. The notation here is the same
 
 Rest-vs-one (RvO) protocol is explained and discussed in Section IV (321-342 lines). The introduction of RvO involves the definition of the SOD problem in Section III, the shortcomings of the OSR evaluation method in Section II, and the six characteristics of the SOD problem in Section I.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzA3ODE4OTcsLTgyNjEyODM0MSwtMT
-kzOTg5MTYsLTIxMjQxMjQ1NDAsNzEwMTc5Njk0LC0xMjU3MzIy
-ODkzLDQ3MjQ3MDMwMywtMTA5ODgwMjAxXX0=
+eyJoaXN0b3J5IjpbNjUyMzg0ODI5LC04MjYxMjgzNDEsLTE5Mz
+k4OTE2LC0yMTI0MTI0NTQwLDcxMDE3OTY5NCwtMTI1NzMyMjg5
+Myw0NzI0NzAzMDMsLTEwOTg4MDIwMV19
 -->
