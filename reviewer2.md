@@ -69,7 +69,7 @@ Thank you for your careful review of our paper and your valuable suggestions. We
 Table 6 in the appendix is explained in Section 7.2 of the paper (519-521 lines) and Appendix A (1047-1050 lines). Since the three datasets have different labels, we use the numbers 0-9 as a uniform label in order to simplify the table design. The purpose of Table 6 is to illustrate the correspondence between the numbers 0-9 and the true labels.
 
 ## 4.2 Table-7,8,9
-Tables 7-9 show the experimental results performed according to Eq.1 in Section 4 of the paper (321-338 lines).  The three tables show the AUROC, AUPRC, and best F1 score evaluation results in turn. Table 2 in the paper is the mean from Table 7-9 as described in Section 7.2 (541-547 lines ) and Appendix B (1052-1105 lines ). Our method outperforms the comparison methods in most of the molecular experiments. SAE achieves a certain performance improvement compared to AE, which means that weighted sparse regularization is helpful for semantic learning. DAE also has a certain improvement compared with AE, which indicates that the noise addition and denoising processing of data can help the learning of semantic information. We'll add bar charts to get a better sense of how all the algorithms compare.
+Tables 7-9 show the experimental results performed according to Eq.1 in Section 4 of the paper (321-338 lines).  The three tables show the AUROC, AUPRC, and best F1 score evaluation results in turn. Table 2 in the paper is the mean from Table 7-9 as described in Section 7.2 (541-547 lines ) and Appendix B (1052-1105 lines ). Our method outperforms the comparison methods in most of the molecular experiments. SAE achieves a certain performance improvement compared to AE, which means that weighted sparse regularization is helpful for semantic learning. DAE also has a certain improvement compared with AE, which indicates that the noise addition and denoising processing of data can help the learning of semantic information. VAE achieves the second best result overall, which reflects that modeling the latent space is beneficial for learning semantics. We'll add bar charts to get a better sense of how all the algorithms compare.
 
 # 5. Why called semantic overflow detection?
 
@@ -98,11 +98,11 @@ Semantic and traditional labels are different in the way of formation process, f
 
 In general, semantics focuses more on the semantic meaning of data or feature and helps computers understand the nature of data, while the traditional  labels focus more on the goal of model training and prediction.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMDU3MTQ3LDExNDI5ODM5Nyw4MzIwOD
-M5MTEsMTE2MzU4OTIzMywtNDQyMjM5NDQ4LC0xMzM5NDc2OTM5
-LDIxNDIxNjAxMzcsLTE4MDAxNTMwOTEsLTk1OTMwMTY5NCwtMT
-M5OTM2ODMzNCw0Mzg4NTU3NjksLTExMTY0Njg2NzgsLTMwMzg5
-NzQ0NCwxNTE2OTIzNjA5LC02NzUzODY0MDQsMTA1MTI4MjEwNC
-wtMTE1OTkzOTA2OCwxOTc2Njg1NDY4LC0zNzQzMzI1NiwxNDYz
-NjMyODYxXX0=
+eyJoaXN0b3J5IjpbLTIwNjc3MzU1NTQsMTMyMDU3MTQ3LDExND
+I5ODM5Nyw4MzIwODM5MTEsMTE2MzU4OTIzMywtNDQyMjM5NDQ4
+LC0xMzM5NDc2OTM5LDIxNDIxNjAxMzcsLTE4MDAxNTMwOTEsLT
+k1OTMwMTY5NCwtMTM5OTM2ODMzNCw0Mzg4NTU3NjksLTExMTY0
+Njg2NzgsLTMwMzg5NzQ0NCwxNTE2OTIzNjA5LC02NzUzODY0MD
+QsMTA1MTI4MjEwNCwtMTE1OTkzOTA2OCwxOTc2Njg1NDY4LC0z
+NzQzMzI1Nl19
 -->
