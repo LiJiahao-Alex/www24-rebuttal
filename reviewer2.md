@@ -55,7 +55,7 @@ I understand your concern about the field of semantic web and knowledge manageme
 
 Firstly, the choice of MNIST, FashionMNIST, and Kuzushiji datasets was not solely driven by an interest in image processing per se. Instead, these datasets were selected as a medium for exploring the integration of visual and semantic information to enhance the understanding of relationships between entities within the semantic web and knowledge management environment. Recognizing the unique position of image data in modern information sharing and transmission on the web, our study aims to provide new perspectives, emphasizing the irreplaceability of image data in knowledge management. We believe that such research can provide a new approach to the management of knowledge and the representation of semantic information.
 
-Secondly, our research extends beyond the realm of image data processing. We are committed to exploring the possibilities of integrating multi-source information within the Semantic Web environment. The proposed methodology aims to facilitate the organic fusion of image data with traditional forms of knowledge, such as textual and structured data, creating a more comprehensive semantic representation. In doing so, we seek to enrich the content of knowledge graphs and enhance the adaptability of knowledge management systems to multi-modal information, further highlighting the significance of image data on the web.
+Secondly, our research extends beyond the realm of image data processing. We are committed to exploring the possibilities of integrating multi-source information within the Semantic Web environment. The proposed methodology aims to facilitate the fusion of image data with traditional forms of knowledge, creating a more comprehensive semantic representation. In doing so, we seek to enrich the content of knowledge graphs and enhance the adaptability of knowledge management systems to multi-modal information, further highlighting the significance of image data on the web.
 
 We appreciate your valuable commet, which has provided insightful directions for our research. To better address the needs of the semantic web and knowledge management domain, we plan to broaden the scope of datasets in future research, including various forms of data and delving deeper into semantic understanding. We believe this will provide comprehensive and profound support for our study.
 
@@ -91,9 +91,9 @@ Semantic and traditional labels are different in the way of formation process, f
 
 - From the perspective of data entities, labels are artificially pre-agreed symbols, and semantics are meaning feature in the data (as Reviewer TEpt said).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNDk4NzAzMCwtOTU5MzAxNjk0LC0xMz
-k5MzY4MzM0LDQzODg1NTc2OSwtMTExNjQ2ODY3OCwtMzAzODk3
-NDQ0LDE1MTY5MjM2MDksLTY3NTM4NjQwNCwxMDUxMjgyMTA0LC
-0xMTU5OTM5MDY4LDE5NzY2ODU0NjgsLTM3NDMzMjU2LDE0NjM2
-MzI4NjFdfQ==
+eyJoaXN0b3J5IjpbLTE4MDAxNTMwOTEsLTk1OTMwMTY5NCwtMT
+M5OTM2ODMzNCw0Mzg4NTU3NjksLTExMTY0Njg2NzgsLTMwMzg5
+NzQ0NCwxNTE2OTIzNjA5LC02NzUzODY0MDQsMTA1MTI4MjEwNC
+wtMTE1OTkzOTA2OCwxOTc2Njg1NDY4LC0zNzQzMzI1NiwxNDYz
+NjMyODYxXX0=
 -->
