@@ -58,7 +58,7 @@ We would like to make the following clarification.
 - For example, the training set is images of handwritten digits with nine semantics from 0 to 8, and the test set is images of handwritten digits with ten semantics from 0 to 9. At this point, the training set does not contain the unknown semantics 9 (anomalies).
 - In the training phase, the training set is available and the test set is not.
 - In the testing phase, the training set is not available and the testing set is available.
-- The three evaluation methods of AUROC, AUPRC and F1 score need to be performed on the test set.
+- The three evaluation methods of AUROC, AUPRC and F1 score only can be performed on the test set because the test set has known(0-8) and unknown(9) labels.
 - AUROC, AUPRC and F1 score are all evaluated on the test set but not on the training set because the training set has no labels.
 
 In summary, the message we want to convey to the reader is that during training, evaluation cannot be performed. 
@@ -74,8 +74,8 @@ and therefore performance evaluation is not available.
 |Disadvantage| no test set evaluation feedback during training ||
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTM1OTMxNDQsLTEyMDQxMjg4ODYsLT
-I0NTAzOTgzMCw4MDkyNjM3NzcsLTgyNjEyODM0MSwtMTkzOTg5
-MTYsLTIxMjQxMjQ1NDAsNzEwMTc5Njk0LC0xMjU3MzIyODkzLD
-Q3MjQ3MDMwMywtMTA5ODgwMjAxXX0=
+eyJoaXN0b3J5IjpbMTc3NjQ3MTI0NSwtMTIwNDEyODg4NiwtMj
+Q1MDM5ODMwLDgwOTI2Mzc3NywtODI2MTI4MzQxLC0xOTM5ODkx
+NiwtMjEyNDEyNDU0MCw3MTAxNzk2OTQsLTEyNTczMjI4OTMsND
+cyNDcwMzAzLC0xMDk4ODAyMDFdfQ==
 -->
