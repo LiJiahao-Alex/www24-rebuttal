@@ -16,13 +16,21 @@ We formulate the statement of the overgeneralization problem mathematically in C
 # 3.Rest-vs-one
 
 ## 3.1 Label-free, multi-semantic, exclusiveness, semanticity, compatibility, and rarity.
-The definition of RvO is given in Section IV, Eq1.
+
+The definition of RvO is given in Section IV, Eq1. The notation here is the same as in Section III. We illustrate the correspondence of RvO with respect to six characteristics below.
+
+- Label-free.
+- Multi-semantic.
+- Exclusiveness.
+- Semanticity.
+- Compatibility.
+- Rarity.
 
 ## 3.2
 
 Rest-vs-one (RvO) protocol is explained and discussed in Section IV (321-342 lines). The introduction of RvO involves the definition of the SOD problem in Section III, the shortcomings of the OSR evaluation method in Section II, and the six characteristics of the SOD problem in Section I.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDgzNTQ0OCwtODI2MTI4MzQxLC0xOT
+eyJoaXN0b3J5IjpbMTk0MzMwOTgzMCwtODI2MTI4MzQxLC0xOT
 M5ODkxNiwtMjEyNDEyNDU0MCw3MTAxNzk2OTQsLTEyNTczMjI4
 OTMsNDcyNDcwMzAzLC0xMDk4ODAyMDFdfQ==
 -->
