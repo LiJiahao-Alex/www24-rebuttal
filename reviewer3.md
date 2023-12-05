@@ -78,10 +78,10 @@ This is the ideal situation, but during actual training, evaluation cannot be im
 | Method | Find the best model design. | Introduce a generalization suppressor. |
 |Limitation| No test set evaluation feedback during training |/|
 |Advantage|/|Do not need test set evaluation feedback during training|
-
+Table 1-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzA1OTY4MzgsODg1MDkwMzY0LC0xMj
-A0MTI4ODg2LC0yNDUwMzk4MzAsODA5MjYzNzc3LC04MjYxMjgz
-NDEsLTE5Mzk4OTE2LC0yMTI0MTI0NTQwLDcxMDE3OTY5NCwtMT
-I1NzMyMjg5Myw0NzI0NzAzMDMsLTEwOTg4MDIwMV19
+eyJoaXN0b3J5IjpbODA4NTM1NTY0LDg4NTA5MDM2NCwtMTIwND
+EyODg4NiwtMjQ1MDM5ODMwLDgwOTI2Mzc3NywtODI2MTI4MzQx
+LC0xOTM5ODkxNiwtMjEyNDEyNDU0MCw3MTAxNzk2OTQsLTEyNT
+czMjI4OTMsNDcyNDcwMzAzLC0xMDk4ODAyMDFdfQ==
 -->
