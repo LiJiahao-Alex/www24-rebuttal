@@ -26,11 +26,11 @@ The definition of RvO is given in Section IV, Eq1. The notation here is the same
 - **Compatibility.**$Y_X\subseteq{Y_{\widetilde{X}}}$
 - **Rarity.**$\forall{(X,\widetilde{X})}\in{RvO(\mathcal{X})},\rho\approx\frac{1}{K}$ where $\rho$ is the anomaly ratio.
 
-## 3.2
+# 4.Rest-vs-one
 
 Rest-vs-one (RvO) protocol is explained and discussed in Section IV (321-342 lines). The introduction of RvO involves the definition of the SOD problem in Section III, the shortcomings of the OSR evaluation method in Section II, and the six characteristics of the SOD problem in Section I.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTU2ODg2MDMsODA5MjYzNzc3LC04Mj
-YxMjgzNDEsLTE5Mzk4OTE2LC0yMTI0MTI0NTQwLDcxMDE3OTY5
-NCwtMTI1NzMyMjg5Myw0NzI0NzAzMDMsLTEwOTg4MDIwMV19
+eyJoaXN0b3J5IjpbMTQ2OTAzNTYwLDgwOTI2Mzc3NywtODI2MT
+I4MzQxLC0xOTM5ODkxNiwtMjEyNDEyNDU0MCw3MTAxNzk2OTQs
+LTEyNTczMjI4OTMsNDcyNDcwMzAzLC0xMDk4ODAyMDFdfQ==
 -->
