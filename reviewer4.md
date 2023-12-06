@@ -19,7 +19,7 @@ To the best of our knowledge, the earliest systematic exposition on SW&KM comes 
 
 ## 1.2 SW&KM follows the in-framework specifications of Web
 
-The Semantic Web and Knowledge Management are framed within the scope of the Web Conference. Machine learning are introduced here **as a tool rather than a topic**. There is no way to give up machine learning tools completely, because of their significance to the Web and the fact that adopting machine learning tools is a trend in recent years[G,H,I]. Some cutting-edge work shows the potential application of machine learning as a tool on the Web, such as KB-enabled  Semantic Communication[J], Semantic Web Machine Learning (SWeML)[K], Memory-based Semantic Communication[L], AI-enabled knowledge management[M,N], etc.
+The **Semantic Web and Knowledge Management** are framed within the scope of the Web Conference. Machine learning are introduced here **as a tool rather than a topic**. There is no way to give up machine learning tools completely, because of their significance to the Web and the fact that adopting machine learning tools is a trend in recent years[G,H,I]. Some cutting-edge work shows the potential application of machine learning as a tool on the Web, such as KB-enabled  Semantic Communication[J], Semantic Web Machine Learning (SWeML)[K], Memory-based Semantic Communication[L], AI-enabled knowledge management[M,N], etc.
 
 ```
 [G]Proceedings of the ACM Web Conference 2023. Association for Computing Machinery, New York, NY, USA.
@@ -37,5 +37,6 @@ The Semantic Web and Knowledge Management are framed within the scope of the Web
 Thanks again for your comments. We really appreciate the time and effort you put into this review process, and each of your questions and suggestions has been meaningful to us. Hopefully our answers addressed your concerns. If you have further questions, don't hesitate to let us know.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0Njc3MzE2LDExMTYwNjAzMjddfQ==
+eyJoaXN0b3J5IjpbLTE1NjIyMzMwMjAsODY0Njc3MzE2LDExMT
+YwNjAzMjddfQ==
 -->
