@@ -50,8 +50,8 @@ Tabel 1-Ours perfomance on Fashion without no-tuning policy
 
 Due to the limitation of the rebuttal time window, we did not use as many alternative hyperparameters as VAE and used Bayesian search instead of grid search to speed up the experiment. Even in this case, we get a good result that shows that our method outperforms the VAE, even when considering the variance.
 
-# 3. Data format  (Q3)
-I understand your concern about the field of semantic web and knowledge management, and I would like to explain our research design in the following ways:
+# 3. Data format (Q3)
+We understand your concern about the field of semantic web and knowledge management. In the Web environment, images are a key component of information transfer. The ability of unknown semantic detection can be directly applied to the semantic understanding of Web images, thereby improving the performance of Web applications such as search engines, image annotation and content recommendation. We would like to explain our research design in the following ways:
 
 Firstly, the choice of MNIST, FashionMNIST, and Kuzushiji datasets was not solely driven by an interest in image processing per se. Instead, these datasets were selected as a medium for exploring the integration of visual and semantic information to enhance the understanding of relationships between entities within the semantic web and knowledge management environment. Recognizing the unique position of image data in modern information sharing and transmission on the web, our study aims to provide new perspectives, emphasizing the irreplaceability of image data in the semantic web and knowledge management. We believe that such research can provide a new approach to the management of knowledge and the representation of semantic information.
 
@@ -105,11 +105,11 @@ In general, semantics focuses more on the semantic meaning of data or feature an
 Thank you again for your careful review of the paper and your helpful suggestions. Your feedback has been critical to improving the research and our team has benefited greatly from it. I have carefully considered each of the points you have raised and have amended and clarified in accordance with your suggestions and guidance. These suggestions not only improved the quality of the paper, but also contributed a lot to the in-depth insights of the paper. Thank you again for your time and professional advice. If you have any further suggestions for this paper, please do not hesitate to contact us.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNjU3NjIyNCwxNDY2MjM4NTM1LC0xNj
-M1ODY0OTY3LDI4Mzg0NjI5NywxMzQ4NTQ4Nzk3LDEzMjA1NzE0
-NywxMTQyOTgzOTcsODMyMDgzOTExLDExNjM1ODkyMzMsLTQ0Mj
-IzOTQ0OCwtMTMzOTQ3NjkzOSwyMTQyMTYwMTM3LC0xODAwMTUz
-MDkxLC05NTkzMDE2OTQsLTEzOTkzNjgzMzQsNDM4ODU1NzY5LC
-0xMTE2NDY4Njc4LC0zMDM4OTc0NDQsMTUxNjkyMzYwOSwtNjc1
-Mzg2NDA0XX0=
+eyJoaXN0b3J5IjpbLTEyMDk2NTkxMTcsLTcyNjU3NjIyNCwxND
+Y2MjM4NTM1LC0xNjM1ODY0OTY3LDI4Mzg0NjI5NywxMzQ4NTQ4
+Nzk3LDEzMjA1NzE0NywxMTQyOTgzOTcsODMyMDgzOTExLDExNj
+M1ODkyMzMsLTQ0MjIzOTQ0OCwtMTMzOTQ3NjkzOSwyMTQyMTYw
+MTM3LC0xODAwMTUzMDkxLC05NTkzMDE2OTQsLTEzOTkzNjgzMz
+QsNDM4ODU1NzY5LC0xMTE2NDY4Njc4LC0zMDM4OTc0NDQsMTUx
+NjkyMzYwOV19
 -->
