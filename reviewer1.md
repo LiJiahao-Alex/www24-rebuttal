@@ -75,7 +75,7 @@ The Semantic Web and Knowledge Management are framed within the scope of the Web
 [G]Proceedings of the ACM Web Conference 2023. Association for Computing Machinery, New York, NY, USA.
 [H]Proceedings of the ACM Web Conference 2022. Association for Computing Machinery, New York, NY, USA.
 [I]Proceedings of the ACM Web Conference 2021. Association for Computing Machinery, New York, NY, USA.
-[J]
+[J]Ren J, Zhang Z, Xu J, Chen G, Sun Y, Zhang P, Cui S. Knowledge Base Enabled Semantic Communication: A Generative Perspective. arXiv preprint arXiv:2311.12443. 2023 Nov 21.
 ```
 
 
@@ -86,6 +86,6 @@ As Reviewer TEpt said, ``"semantic overflow detection is an area of interest in 
 Once again please allow us to thank you for your comment. We cherish every suggestion to make the paper better, and we will spare no effort to perfect it according to your requirements. Hope our reply dispels your concerns, if you still have concerns please don't hesitate to let us know.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MTQxMjI2NiwzODIyMDgzNTQsLTExOD
-AzMzAyMzQsMTMwOTQ2NTExOV19
+eyJoaXN0b3J5IjpbMTc5NDEzNzU5MSwtNzYxNDEyMjY2LDM4Mj
+IwODM1NCwtMTE4MDMzMDIzNCwxMzA5NDY1MTE5XX0=
 -->
