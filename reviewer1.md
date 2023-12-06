@@ -69,12 +69,13 @@ To the best of our knowledge, the earliest systematic exposition on SW&KM comes 
 ```
 
 ## 4.2 SW&KM follows the in-framework specifications of Web
-The Semantic Web and Knowledge Management are framed within the scope of the Web Conference. Machine learning are introduced here **as a tool rather than a topic**. There is no way to give up machine learning tools completely, because of their significance to the Web and the fact that adopting machine learning tools is a trend in recent years[G,H,I]. Some cutting-edge work shows the potential application of machine learning as a tool on the Web, such as Knowledge-based Semantic Communication[1]\
+The Semantic Web and Knowledge Management are framed within the scope of the Web Conference. Machine learning are introduced here **as a tool rather than a topic**. There is no way to give up machine learning tools completely, because of their significance to the Web and the fact that adopting machine learning tools is a trend in recent years[G,H,I]. Some cutting-edge work shows the potential application of machine learning as a tool on the Web, such as Knowledge-based Semantic Communication[J], 
 
 ```
 [G]Proceedings of the ACM Web Conference 2023. Association for Computing Machinery, New York, NY, USA.
 [H]Proceedings of the ACM Web Conference 2022. Association for Computing Machinery, New York, NY, USA.
 [I]Proceedings of the ACM Web Conference 2021. Association for Computing Machinery, New York, NY, USA.
+[J]
 ```
 
 
@@ -85,6 +86,6 @@ As Reviewer TEpt said, ``"semantic overflow detection is an area of interest in 
 Once again please allow us to thank you for your comment. We cherish every suggestion to make the paper better, and we will spare no effort to perfect it according to your requirements. Hope our reply dispels your concerns, if you still have concerns please don't hesitate to let us know.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMxMjMxMjcxLDM4MjIwODM1NCwtMTE4MD
-MzMDIzNCwxMzA5NDY1MTE5XX0=
+eyJoaXN0b3J5IjpbLTc2MTQxMjI2NiwzODIyMDgzNTQsLTExOD
+AzMzAyMzQsMTMwOTQ2NTExOV19
 -->
