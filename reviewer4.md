@@ -32,9 +32,10 @@ The Semantic Web and Knowledge Management are framed within the scope of the Web
 [N]Taherdoost, H., & Madanchian, M. (2023). Artificial Intelligence and Knowledge Management: Impacts, Benefits, and Implementation. Computers:12(4), 72.
 ```
 
+
 ```
 Thanks again for your comments. We really appreciate the time and effort you put into this review process, and each of your questions and suggestions has been meaningful to us. Hopefully our answers addressed your concerns. If you have further questions, don't hesitate to let us know.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDgyMzUzOCwxMTE2MDYwMzI3XX0=
+eyJoaXN0b3J5IjpbODY0Njc3MzE2LDExMTYwNjAzMjddfQ==
 -->
