@@ -69,7 +69,7 @@ To the best of our knowledge, the earliest systematic exposition on SW&KM comes 
 ```
 
 ## 4.2 SW&KM follows the in-framework specifications of Web
-The Semantic Web and Knowledge Management are framed within the scope of the Web Conference. Machine learning are introduced here **as a tool rather than a topic**. There is no way to give up machine learning tools completely, because of their significance to the Web and the fact that adopting machine learning tools is a trend in recent years[G,H,I]. Some cutting-edge work shows the potential application of machine learning as a tool on the Web, such as Knowledge-based Semantic Communication[J], 
+The Semantic Web and Knowledge Management are framed within the scope of the Web Conference. Machine learning are introduced here **as a tool rather than a topic**. There is no way to give up machine learning tools completely, because of their significance to the Web and the fact that adopting machine learning tools is a trend in recent years[G,H,I]. Some cutting-edge work shows the potential application of machine learning as a tool on the Web, such as Knowledge-based Semantic Communication[J], Semantic Web Machine Learning (SWeML)[K]
 
 ```
 [G]Proceedings of the ACM Web Conference 2023. Association for Computing Machinery, New York, NY, USA.
@@ -87,6 +87,6 @@ As Reviewer TEpt said, ``"semantic overflow detection is an area of interest in 
 Once again please allow us to thank you for your comment. We cherish every suggestion to make the paper better, and we will spare no effort to perfect it according to your requirements. Hope our reply dispels your concerns, if you still have concerns please don't hesitate to let us know.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM0Njg4MjQyLC03NjE0MTIyNjYsMzgyMj
+eyJoaXN0b3J5IjpbNjIyMDk3MzI5LC03NjE0MTIyNjYsMzgyMj
 A4MzU0LC0xMTgwMzMwMjM0LDEzMDk0NjUxMTldfQ==
 -->
