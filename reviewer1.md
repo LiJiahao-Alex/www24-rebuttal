@@ -69,7 +69,7 @@ To the best of our knowledge, the earliest systematic exposition on SW&KM comes 
 ```
 
 ## 4.2 SW&KM follows the in-framework specifications of Web
-The Semantic Web and Knowledge Management are framed within the scope of the Web Conference. Machine learning are introduced here **as a tool rather than a topic**. There is no way to give up machine learning tools completely, because of their significance to the Web and the fact that adopting machine learning tools is a trend in recent years[G,H,I]. Some cutting-edge work shows the potential application of machine learning as a tool on the Web, such as KB-enabled  Semantic Communication[J], Semantic Web Machine Learning (SWeML)[K], Memory-based Semantic Communication[L], AI-enabled knowledge management[M]
+The Semantic Web and Knowledge Management are framed within the scope of the Web Conference. Machine learning are introduced here **as a tool rather than a topic**. There is no way to give up machine learning tools completely, because of their significance to the Web and the fact that adopting machine learning tools is a trend in recent years[G,H,I]. Some cutting-edge work shows the potential application of machine learning as a tool on the Web, such as KB-enabled  Semantic Communication[J], Semantic Web Machine Learning (SWeML)[K], Memory-based Semantic Communication[L], AI-enabled knowledge management[M,N]
 
 ```
 [G]Proceedings of the ACM Web Conference 2023. Association for Computing Machinery, New York, NY, USA.
@@ -79,6 +79,7 @@ The Semantic Web and Knowledge Management are framed within the scope of the Web
 [K]Breit A, Waltersdorfer L, Ekaputra FJ, Sabou M, Ekelhart A, Iana A, Paulheim H, Portisch J, Revenko A, Teije AT, van Harmelen F. Combining machine learning and semantic web: A systematic mapping study. ACM Computing Surveys. 2023 Mar.
 [L]Xie, H., Qin, Z., & Li, G. Y. Semantic Communication with Memory. IEEE Journal on Selected Areas in Communications. 2023
 [M]Anshari, M., Syafrudin, M., Tan, A., Fitriyani, N. L., & Alas, Y. (2023). Optimisation of Knowledge Management (KM) with Machine Learning (ML) Enabled. _Information_, _14_(1), 35.
+[N]Taherdoost, H., & Madanchian, M. (2023). Artificial Intelligence and Knowledge Management: Impacts, Benefits, and Implementation. Computers, _12_(4), 72.
 ```
 
 
@@ -89,7 +90,7 @@ As Reviewer TEpt said, ``"semantic overflow detection is an area of interest in 
 Once again please allow us to thank you for your comment. We cherish every suggestion to make the paper better, and we will spare no effort to perfect it according to your requirements. Hope our reply dispels your concerns, if you still have concerns please don't hesitate to let us know.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzMzU3MjQ4LC0xNjk5NTA5Nzg1LC01Mz
-M4MjYxNTQsNjIyMDk3MzI5LC03NjE0MTIyNjYsMzgyMjA4MzU0
-LC0xMTgwMzMwMjM0LDEzMDk0NjUxMTldfQ==
+eyJoaXN0b3J5IjpbLTQzODE2MzYwMiwtMTY5OTUwOTc4NSwtNT
+MzODI2MTU0LDYyMjA5NzMyOSwtNzYxNDEyMjY2LDM4MjIwODM1
+NCwtMTE4MDMzMDIzNCwxMzA5NDY1MTE5XX0=
 -->
