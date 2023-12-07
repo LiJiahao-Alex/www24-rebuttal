@@ -25,7 +25,7 @@ The **Semantic Web and Knowledge Management** are framed within the scope of the
 [G]Proceedings of the ACM Web Conference 2023. Association for Computing Machinery, New York, NY, USA.
 [H]Proceedings of the ACM Web Conference 2022. Association for Computing Machinery, New York, NY, USA.
 [I]Proceedings of the ACM Web Conference 2021. Association for Computing Machinery, New York, NY, USA.
-[J]XXXXXXXXXXXXXXXXX
+[J]Almomani, A., Alauthman, M., Shatnawi, M. T., Alweshah, M., Alrosan, A., Alomoush, W., Gupta, B. B., Gupta, B. B., & Gupta, B. B. (2022). Phishing Website Detection With Semantic Features Based on Machine Learning Classifiers: A Comparative Study.  _International Journal on Semantic Web and Information Systems (IJSWIS), 18_(1), 1-24. http://doi.org/10.4018/IJSWIS.297032
 [K]Breit A, Waltersdorfer L, Ekaputra FJ, Sabou M, Ekelhart A, Iana A, Paulheim H, Portisch J, Revenko A, Teije AT, van Harmelen F. Combining machine learning and semantic web: A systematic mapping study. ACM Computing Surveys. 2023 Mar.
 [L]Xie, H., Qin, Z., & Li, G. Y. Semantic Communication with Memory. IEEE Journal on Selected Areas in Communications. 2023
 [M]Anshari, M., Syafrudin, M., Tan, A., Fitriyani, N. L., & Alas, Y. (2023). Optimisation of Knowledge Management (KM) with Machine Learning (ML) Enabled. Information:14(1), 35.
@@ -37,7 +37,7 @@ The **Semantic Web and Knowledge Management** are framed within the scope of the
 Thanks again for your comments. We really appreciate the time and effort you put into this review process, and each of your questions and suggestions has been meaningful to us. Hopefully our answers addressed your concerns. If you have further questions, don't hesitate to let us know.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTUxOTI1OCwtMjY0MzUzMzI1LC0yMT
+eyJoaXN0b3J5IjpbLTg4NDgwMzc2NiwtMjY0MzUzMzI1LC0yMT
 Q0ODAxNDA0LC0xNTYyMjMzMDIwLDg2NDY3NzMxNiwxMTE2MDYw
 MzI3XX0=
 -->
