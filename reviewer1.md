@@ -14,7 +14,7 @@ Once again, please allow us to deeply apologize for uncomfotable reading experie
 
 - The same goes for "low-level image statistics[3]", which is in the sentence headed by "Another counterexample is"(154 lines), so it is also an example not a concept.
 
-- The actual conceptual statement "semantic anomalies[3]" begins after the "Notably" word (lines 58 to 61).  This concept is a term taken from reference [3].
+- The actual conceptual statement "semantic anomalies[3]" begins after the "Notably" word (58-61 lines).  This concept is a term taken from reference [3].
 
 The structure of this section is to introduce two examples followed by a concept. The begining of the sentence declares whether the whole sentence is an example or a concept. If the sentence of example does not end, it still needs to be understood in the context of the current example.
 
@@ -90,7 +90,8 @@ As Reviewer TEpt said, ``"semantic overflow detection is an area of interest in 
 Once again please allow us to thank you for your comment. We cherish every suggestion to make the paper better, and we will spare no effort to perfect it according to your requirements. Hope our reply dispels your concerns, if you still have concerns please don't hesitate to let us know.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MTc5MjkzMSwtMTY5OTUwOTc4NSwtNT
-MzODI2MTU0LDYyMjA5NzMyOSwtNzYxNDEyMjY2LDM4MjIwODM1
-NCwtMTE4MDMzMDIzNCwxMzA5NDY1MTE5XX0=
+eyJoaXN0b3J5IjpbMTc5NzYwNjMwNSwtOTcxNzkyOTMxLC0xNj
+k5NTA5Nzg1LC01MzM4MjYxNTQsNjIyMDk3MzI5LC03NjE0MTIy
+NjYsMzgyMjA4MzU0LC0xMTgwMzMwMjM0LDEzMDk0NjUxMTldfQ
+==
 -->
