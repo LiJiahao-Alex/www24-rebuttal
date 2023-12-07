@@ -20,7 +20,7 @@ The structure of this section is to introduce two examples followed by a concept
 
 Your suggestions have been very constructive and have given us a reader's perspective on how to improve. Your comment make us deeply realized that our attempt to cite references for context reduction affects the experience of reading. We immediately fixed the problem and expanded all the contexts.
 ```
-[3]Ahmed, F., & Courville, A. (2020). Detecting Semantic Anomalies. _Proceedings of the AAAI Conference on Artificial Intelligence_, _34_(04), 3154-3162. https://doi.org/10.1609/aaai.v34i04.5712
+[3]Ahmed, F., & Courville, A. (2020). Detecting Semantic Anomalies. Proceedings of the AAAI Conference on Artificial Intelligence, 34(04), 3154-3162. https://doi.org/10.1609/aaai.v34i04.5712
 [8]Paul Bergmann, Michael Fauser, David Sattlegger, and Carsten Steger. 2019. MVTec AD — A Comprehensive Real-World Dataset for Unsupervised Anomaly Detection. In 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 9584–9592. https://doi.org/10.1109/CVPR.2019.00982 
 ```
 
@@ -90,8 +90,8 @@ As Reviewer TEpt said, ``"semantic overflow detection is an area of interest in 
 Once again please allow us to thank you for your comment. We cherish every suggestion to make the paper better, and we will spare no effort to perfect it according to your requirements. Hope our reply dispels your concerns, if you still have concerns please don't hesitate to let us know.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDk5Nzk2MDYsLTk3MTc5MjkzMSwtMT
-Y5OTUwOTc4NSwtNTMzODI2MTU0LDYyMjA5NzMyOSwtNzYxNDEy
-MjY2LDM4MjIwODM1NCwtMTE4MDMzMDIzNCwxMzA5NDY1MTE5XX
-0=
+eyJoaXN0b3J5IjpbLTE1NzExNTMzNiwtOTcxNzkyOTMxLC0xNj
+k5NTA5Nzg1LC01MzM4MjYxNTQsNjIyMDk3MzI5LC03NjE0MTIy
+NjYsMzgyMjA4MzU0LC0xMTgwMzMwMjM0LDEzMDk0NjUxMTldfQ
+==
 -->
