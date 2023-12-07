@@ -69,13 +69,13 @@ To the best of our knowledge, the earliest systematic exposition on SW&KM comes 
 ```
 
 ## 4.2 SW&KM follows the in-framework specifications of Web
-The Semantic Web and Knowledge Management are framed within the scope of the Web Conference. Machine learning are introduced here **as a tool rather than a topic**. There is no way to give up machine learning tools completely, because of their significance to the Web and the fact that adopting machine learning tools is a trend in recent years[G,H,I]. Some cutting-edge work shows the potential application of machine learning as a tool on the Web, such as KB-enabled  Semantic Communication[J], Semantic Web Machine Learning (SWeML)[K], Memory-based Semantic Communication[L], AI-enabled knowledge management[M,N], etc.
+The Semantic Web and Knowledge Management are framed within the scope of the Web Conference. Machine learning are introduced here **as a tool rather than a topic**. There is no way to give up machine learning tools completely, because of their significance to the Web and the fact that adopting machine learning tools is a trend in recent years[G,H,I]. Some cutting-edge work shows the potential application of machine learning as a tool on the Web, such as , such as ML-based URL feature learning[J], Semantic Web Machine Learning (SWeML)[K], Memory-based Semantic Communication[L], AI-enabled knowledge management[M,N], etc.
 
 ```
 [G]Proceedings of the ACM Web Conference 2023. Association for Computing Machinery, New York, NY, USA.
 [H]Proceedings of the ACM Web Conference 2022. Association for Computing Machinery, New York, NY, USA.
 [I]Proceedings of the ACM Web Conference 2021. Association for Computing Machinery, New York, NY, USA.
-[J]Ren J, Zhang Z, Xu J, Chen G, Sun Y, Zhang P, Cui S. Knowledge Base Enabled Semantic Communication: A Generative Perspective. arXiv preprint arXiv:2311.12443. 2023 Nov 21.
+[J]Almomani, A., Alauthman, M., Shatnawi, M. T., Alweshah, M., Alrosan, A., Alomoush, W., Gupta, B. B., Gupta, B. B., & Gupta, B. B. (2022). Phishing Website Detection With Semantic Features Based on Machine Learning Classifiers: A Comparative Study. International Journal on Semantic Web and Information Systems (IJSWIS), 18(1), 1-24.
 [K]Breit A, Waltersdorfer L, Ekaputra FJ, Sabou M, Ekelhart A, Iana A, Paulheim H, Portisch J, Revenko A, Teije AT, van Harmelen F. Combining machine learning and semantic web: A systematic mapping study. ACM Computing Surveys. 2023 Mar.
 [L]Xie, H., Qin, Z., & Li, G. Y. Semantic Communication with Memory. IEEE Journal on Selected Areas in Communications. 2023
 [M]Anshari, M., Syafrudin, M., Tan, A., Fitriyani, N. L., & Alas, Y. (2023). Optimisation of Knowledge Management (KM) with Machine Learning (ML) Enabled. Information:14(1), 35.
@@ -90,7 +90,7 @@ As Reviewer TEpt said, ``"semantic overflow detection is an area of interest in 
 Once again please allow us to thank you for your comment. We cherish every suggestion to make the paper better, and we will spare no effort to perfect it according to your requirements. Hope our reply dispels your concerns, if you still have concerns please don't hesitate to let us know.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NzM2NTY4NiwtMTY5OTUwOTc4NSwtNT
+eyJoaXN0b3J5IjpbLTk3MTc5MjkzMSwtMTY5OTUwOTc4NSwtNT
 MzODI2MTU0LDYyMjA5NzMyOSwtNzYxNDEyMjY2LDM4MjIwODM1
 NCwtMTE4MDMzMDIzNCwxMzA5NDY1MTE5XX0=
 -->
