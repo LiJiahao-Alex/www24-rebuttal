@@ -5,7 +5,7 @@ We sincerely thank you for carefully reviewing the paper and providing insightfu
 # 1. OCC v.s. SOD
 We are sorry that the statement in Section 2 (lines 243-254) may have cause readers the misunderstanding that OCC is completely different from SOD. In fact, we didn't say in the paper that they're completely different. On the contrary, we show in Section III (312-318 lines) that the OCC is a degenerate case of SOD problem. With the help of the formal definitions in Section III, we illustrate below the differences and connections between OCC and SOD.
 
-- **Difference.** $Y_{X_{OCC}}=\left\{(x, y)|\forall x \in X_{OCC}, y=1\right\}$, while $$Y_{X_{SOD}}=\{(x, y)|\forall x \in X_{SOD}, y=1,2, \cdots, k, 1<k \leq| X_{SOD} \mid\}$$
+- **Difference.** $Y_{X_{OCC}}=\{(x, y)|\forall x \in X_{OCC}, y=1\}$, while $Y_{X_{SOD}}=\{(x, y)|\forall x \in X_{SOD}, y=1,2, \cdots, k, 1<k \leq| X_{SOD}\mid\}$
 - **Connection.** When $k=1$, the SOD problem degenerates to the OCC problem.
 
 In simple terms, although SOD and OCC both detect unknown semantics in the open set, OCC explicitly requires the known semantics to be single semantics. This limiation makes OCC methods ineffective when dealing with unlabeled multi-semantic data.
@@ -89,7 +89,7 @@ Model design (Plan A) is a tricky thing, it needs to take into account the chara
 Once again please allow us to thank you for your comment. We cherish every suggestion to make the paper better, and we will spare no effort to perfect it according to your requirements. Hope our reply dispels your concerns, if you still have concerns please don't hesitate to let us know. 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg4ODMxNTQyLC04ODI1MTEyODEsLTExND
+eyJoaXN0b3J5IjpbNjYwMDE4MjYzLC04ODI1MTEyODEsLTExND
 I2MDYxODQsLTM0NTc2Mzk5MSw4ODUwOTAzNjQsLTEyMDQxMjg4
 ODYsLTI0NTAzOTgzMCw4MDkyNjM3NzcsLTgyNjEyODM0MSwtMT
 kzOTg5MTYsLTIxMjQxMjQ1NDAsNzEwMTc5Njk0LC0xMjU3MzIy
