@@ -25,7 +25,7 @@ The **Semantic Web and Knowledge Management** are framed within the scope of the
 [G]Proceedings of the ACM Web Conference 2023. Association for Computing Machinery, New York, NY, USA.
 [H]Proceedings of the ACM Web Conference 2022. Association for Computing Machinery, New York, NY, USA.
 [I]Proceedings of the ACM Web Conference 2021. Association for Computing Machinery, New York, NY, USA.
-[J]Ren J, Zhang Z, Xu J, Chen G, Sun Y, Zhang P, Cui S. Knowledge Base Enabled Semantic Communication: A Generative Perspective. arXiv preprint arXiv:2311.12443. 2023 Nov 21.
+[J]XXXXXXXXXXXXXXXXX
 [K]Breit A, Waltersdorfer L, Ekaputra FJ, Sabou M, Ekelhart A, Iana A, Paulheim H, Portisch J, Revenko A, Teije AT, van Harmelen F. Combining machine learning and semantic web: A systematic mapping study. ACM Computing Surveys. 2023 Mar.
 [L]Xie, H., Qin, Z., & Li, G. Y. Semantic Communication with Memory. IEEE Journal on Selected Areas in Communications. 2023
 [M]Anshari, M., Syafrudin, M., Tan, A., Fitriyani, N. L., & Alas, Y. (2023). Optimisation of Knowledge Management (KM) with Machine Learning (ML) Enabled. Information:14(1), 35.
@@ -37,6 +37,6 @@ The **Semantic Web and Knowledge Management** are framed within the scope of the
 Thanks again for your comments. We really appreciate the time and effort you put into this review process, and each of your questions and suggestions has been meaningful to us. Hopefully our answers addressed your concerns. If you have further questions, don't hesitate to let us know.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQ4MDE0MDQsLTE1NjIyMzMwMjAsOD
-Y0Njc3MzE2LDExMTYwNjAzMjddfQ==
+eyJoaXN0b3J5IjpbLTI2NDM1MzMyNSwtMjE0NDgwMTQwNCwtMT
+U2MjIzMzAyMCw4NjQ2NzczMTYsMTExNjA2MDMyN119
 -->
