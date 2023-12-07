@@ -1,5 +1,5 @@
 ```
-Thank you very much for your comment. I am sorry that some of our expressions in the article may have caused misunderstandings. In order to convey what we want to express more clearly, we have made the following reply.
+Thank you very much for your comment. We are sorry that some of our expressions in the article may have caused misunderstandings. In order to convey what we want to express more clearly, we have made the following reply.
 ```
 # 1. Distinction between OSR and SOD
 Thanks for your comments. First of all, please allow us to apologize for some misunderstandings caused by the design of our pictures. We will first clarify the misunderstanding below, and then explain the distinction between OSR and SOD.
@@ -105,11 +105,11 @@ In general, semantics focuses more on the semantic meaning of data or feature an
 Thank you again for your careful review of the paper and your helpful suggestions. Your feedback has been critical to improving the research and our team has benefited greatly from it. I have carefully considered each of the points you have raised and have amended and clarified in accordance with your suggestions and guidance. These suggestions not only improved the quality of the paper, but also contributed a lot to the in-depth insights of the paper. Thank you again for your time and professional advice. If you have any further suggestions for this paper, please do not hesitate to contact us.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDk2NTkxMTcsLTcyNjU3NjIyNCwxND
-Y2MjM4NTM1LC0xNjM1ODY0OTY3LDI4Mzg0NjI5NywxMzQ4NTQ4
-Nzk3LDEzMjA1NzE0NywxMTQyOTgzOTcsODMyMDgzOTExLDExNj
-M1ODkyMzMsLTQ0MjIzOTQ0OCwtMTMzOTQ3NjkzOSwyMTQyMTYw
-MTM3LC0xODAwMTUzMDkxLC05NTkzMDE2OTQsLTEzOTkzNjgzMz
-QsNDM4ODU1NzY5LC0xMTE2NDY4Njc4LC0zMDM4OTc0NDQsMTUx
-NjkyMzYwOV19
+eyJoaXN0b3J5IjpbMTE2MzIxMzc3OCwtMTIwOTY1OTExNywtNz
+I2NTc2MjI0LDE0NjYyMzg1MzUsLTE2MzU4NjQ5NjcsMjgzODQ2
+Mjk3LDEzNDg1NDg3OTcsMTMyMDU3MTQ3LDExNDI5ODM5Nyw4Mz
+IwODM5MTEsMTE2MzU4OTIzMywtNDQyMjM5NDQ4LC0xMzM5NDc2
+OTM5LDIxNDIxNjAxMzcsLTE4MDAxNTMwOTEsLTk1OTMwMTY5NC
+wtMTM5OTM2ODMzNCw0Mzg4NTU3NjksLTExMTY0Njg2NzgsLTMw
+Mzg5NzQ0NF19
 -->
